@@ -687,7 +687,9 @@ DESCRIPTION:Read Richard Feldman\, Reason and Argument\, second edition\, C
  actice identifying and evaluating arguments. Source: SSH 105 Course Outlin
  e - Fall 2026.pdf\, page 4 (schedule).  Print posted skeletal slides befor
  e lecture to support handwritten notes. For lecture recordings\, use Zoom 
- SSO with company domain torontomu.
+ SSO with company domain torontomu. October 14 D2L announcement confirms Le
+ cture 6 skeletal slides are posted. Print and bring them to the in-person 
+ lecture on Friday October 23\; reformat if helpful.
 CATEGORIES:READING
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261023
@@ -700,8 +702,8 @@ DESCRIPTION:SSH105 — Reading: Chapter 3 and 4 — Rest of Chapter 3\; Str
  rontomu.
 TRIGGER;VALUE=DATE-TIME:20261022T130000Z
 END:VALARM
-SEQUENCE:1
-LAST-MODIFIED:20261014T060000Z
+SEQUENCE:2
+LAST-MODIFIED:20261014T172213Z
 END:VEVENT
 BEGIN:VEVENT
 UID:7a47465d-fd70-5ceb-b459-5889e517ccbb@course-calendar
@@ -1165,6 +1167,28 @@ DTEND;VALUE=DATE:20261020
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PSY102 — Suggested task: check Sona requirements
+TRIGGER;VALUE=DATE-TIME:20261018T130000Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ae00dd15-bce5-5aed-9665-458706d7c976@course-calendar
+DTSTAMP:20261014T172213Z
+SEQUENCE:1
+LAST-MODIFIED:20261014T172213Z
+SUMMARY:SSH105 — Suggested prep: watch Lecture 5 and take notes
+DESCRIPTION:Watch Lecture 5 in the D2L Content folder and take notes. Offic
+ ial instruction in the October 14 announcement: complete this before your 
+ first tutorial after Reading Week\; you will work on the material in group
+ s. October 19 is a suggested preparation day\, not an official deadline. C
+ heck your own tutorial time. If recording access fails\, use Zoom SSO with
+  company domain torontomu.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Prepare Lecture 5 notes before your next SSH105 tutorial
 TRIGGER;VALUE=DATE-TIME:20261018T130000Z
 END:VALARM
 END:VEVENT
