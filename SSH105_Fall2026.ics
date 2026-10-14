@@ -1,0 +1,541 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Course Calendar//Fall 2026//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SSH105 Fall 2026
+X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+UID:dcadde96-36a8-579c-b1fe-d8e76a3a1ab5@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:SSH105 — Reading: Chapter 1 — Introduction\; concept of knowled
+ ge
+DESCRIPTION:Read Richard Feldman\, Reason and Argument\, second edition\, C
+ hapter(s) 1\, pp. 11–34. Free electronic textbook on D2L. Assigned lectu
+ re date\; no separate reading submission deadline. Practice identifying an
+ d evaluating arguments. Source: SSH 105 Course Outline - Fall 2026.pdf\, p
+ age 4 (schedule).  Print posted skeletal slides before lecture to support 
+ handwritten notes. For lecture recordings\, use Zoom SSO with company doma
+ in torontomu.
+CATEGORIES:READING
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — Reading: Chapter 1 — Introduction\; concept of kno
+ wledge Print posted skeletal slides before lecture to support handwritten 
+ notes. For lecture recordings\, use Zoom SSO with company domain torontomu
+ .
+TRIGGER;VALUE=DATE-TIME:20260910T130000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ca891dcc-5907-53aa-8834-f21f35294cbf@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:SSH105 — Reading: Chapter 1 — Realism\, nihilism\, relativism a
+ nd skepticism
+DESCRIPTION:Read Richard Feldman\, Reason and Argument\, second edition\, C
+ hapter(s) 1\, pp. 11–34. Free electronic textbook on D2L. Assigned lectu
+ re date\; no separate reading submission deadline. Practice identifying an
+ d evaluating arguments. Source: SSH 105 Course Outline - Fall 2026.pdf\, p
+ age 4 (schedule).  Print posted skeletal slides before lecture to support 
+ handwritten notes. For lecture recordings\, use Zoom SSO with company doma
+ in torontomu.
+CATEGORIES:READING
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — Reading: Chapter 1 — Realism\, nihilism\, relativi
+ sm and skepticism Print posted skeletal slides before lecture to support h
+ andwritten notes. For lecture recordings\, use Zoom SSO with company domai
+ n torontomu.
+TRIGGER;VALUE=DATE-TIME:20260917T130000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:adcfd619-a9ff-5980-afbc-e743c4d1c2a2@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:SSH105 — Reading: Chapter 2 — Models of truth\; belief and just
+ ification
+DESCRIPTION:Read Richard Feldman\, Reason and Argument\, second edition\, C
+ hapter(s) 2\, pp. 36–67. Free electronic textbook on D2L. Assigned lectu
+ re date\; no separate reading submission deadline. Practice identifying an
+ d evaluating arguments. Source: SSH 105 Course Outline - Fall 2026.pdf\, p
+ age 4 (schedule).  Print posted skeletal slides before lecture to support 
+ handwritten notes. For lecture recordings\, use Zoom SSO with company doma
+ in torontomu.
+CATEGORIES:READING
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — Reading: Chapter 2 — Models of truth\; belief and 
+ justification Print posted skeletal slides before lecture to support handw
+ ritten notes. For lecture recordings\, use Zoom SSO with company domain to
+ rontomu.
+TRIGGER;VALUE=DATE-TIME:20260924T130000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f51be25b-911d-50a8-886a-1761c5569220@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:SSH105 — Reading: Chapter 3 — Well-Formed Arguments\; video lec
+ ture
+DESCRIPTION:Read Richard Feldman\, Reason and Argument\, second edition\, C
+ hapter(s) 3\, pp. 69–94. Free electronic textbook on D2L. Assigned lectu
+ re date\; no separate reading submission deadline. Practice identifying an
+ d evaluating arguments. No in-person lecture October 2\; watch video lectu
+ re instead. Source: SSH 105 Course Outline - Fall 2026.pdf\, page 4 (sched
+ ule).  Print posted skeletal slides before lecture to support handwritten 
+ notes. For lecture recordings\, use Zoom SSO with company domain torontomu
+ .
+CATEGORIES:READING
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — Reading: Chapter 3 — Well-Formed Arguments\; video
+  lecture Print posted skeletal slides before lecture to support handwritte
+ n notes. For lecture recordings\, use Zoom SSO with company domain toronto
+ mu.
+TRIGGER;VALUE=DATE-TIME:20261001T130000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f886c744-903c-529c-b582-49e7a8902093@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:SSH105 — Reading: Chapter 3 and 4 — Rest of Chapter 3\; Strong 
+ Arguments
+DESCRIPTION:Read Richard Feldman\, Reason and Argument\, second edition\, C
+ hapter(s) 3 and 4\, pp. 94–110 and 112–131. Free electronic textbook o
+ n D2L. Assigned lecture date\; no separate reading submission deadline. Pr
+ actice identifying and evaluating arguments. Source: SSH 105 Course Outlin
+ e - Fall 2026.pdf\, page 4 (schedule).  Print posted skeletal slides befor
+ e lecture to support handwritten notes. For lecture recordings\, use Zoom 
+ SSO with company domain torontomu.
+CATEGORIES:READING
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — Reading: Chapter 3 and 4 — Rest of Chapter 3\; Str
+ ong Arguments Print posted skeletal slides before lecture to support handw
+ ritten notes. For lecture recordings\, use Zoom SSO with company domain to
+ rontomu.
+TRIGGER;VALUE=DATE-TIME:20261022T130000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:7a47465d-fd70-5ceb-b459-5889e517ccbb@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:SSH105 — Reading: Chapter 5 — Reconstructing Arguments
+DESCRIPTION:Read Richard Feldman\, Reason and Argument\, second edition\, C
+ hapter(s) 5\, pp. 133–170. Free electronic textbook on D2L. Assigned lec
+ ture date\; no separate reading submission deadline. Practice identifying 
+ and evaluating arguments. Source: SSH 105 Course Outline - Fall 2026.pdf\,
+  page 4 (schedule).  Print posted skeletal slides before lecture to suppor
+ t handwritten notes. For lecture recordings\, use Zoom SSO with company do
+ main torontomu.
+CATEGORIES:READING
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — Reading: Chapter 5 — Reconstructing Arguments Prin
+ t posted skeletal slides before lecture to support handwritten notes. For 
+ lecture recordings\, use Zoom SSO with company domain torontomu.
+TRIGGER;VALUE=DATE-TIME:20261105T140000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:e2a3fd68-13a2-5c8f-9dde-b2ce975835cc@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:SSH105 — Reading: Chapter 6 — Details of Argument Reconstructio
+ n\; Subarguments
+DESCRIPTION:Read Richard Feldman\, Reason and Argument\, second edition\, C
+ hapter(s) 6\, pp. 171–189. Free electronic textbook on D2L. Assigned lec
+ ture date\; no separate reading submission deadline. Practice identifying 
+ and evaluating arguments. Source: SSH 105 Course Outline - Fall 2026.pdf\,
+  page 4 (schedule).  Print posted skeletal slides before lecture to suppor
+ t handwritten notes. For lecture recordings\, use Zoom SSO with company do
+ main torontomu.
+CATEGORIES:READING
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — Reading: Chapter 6 — Details of Argument Reconstru
+ ction\; Subarguments Print posted skeletal slides before lecture to suppor
+ t handwritten notes. For lecture recordings\, use Zoom SSO with company do
+ main torontomu.
+TRIGGER;VALUE=DATE-TIME:20261112T140000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ec249b34-a930-5ddf-b595-f852685a4420@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:SSH105 — Reading: Chapter 7 — Evaluating Arguments
+DESCRIPTION:Read Richard Feldman\, Reason and Argument\, second edition\, C
+ hapter(s) 7\, pp. 191–242. Free electronic textbook on D2L. Assigned lec
+ ture date\; no separate reading submission deadline. Practice identifying 
+ and evaluating arguments. Source: SSH 105 Course Outline - Fall 2026.pdf\,
+  page 4 (schedule).  Print posted skeletal slides before lecture to suppor
+ t handwritten notes. For lecture recordings\, use Zoom SSO with company do
+ main torontomu.
+CATEGORIES:READING
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — Reading: Chapter 7 — Evaluating Arguments Print po
+ sted skeletal slides before lecture to support handwritten notes. For lect
+ ure recordings\, use Zoom SSO with company domain torontomu.
+TRIGGER;VALUE=DATE-TIME:20261126T140000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:12662be1-3f13-53a5-b39a-2b7decd75603@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:SSH105 — Topic: Evaluating Arguments — Fallacies
+DESCRIPTION:More on Evaluating Arguments: Fallacies. No chapter or page ran
+ ge specified for this date. Review lecture materials and practice identify
+ ing fallacies. Source: SSH 105 Course Outline - Fall 2026.pdf\, page 4 (sc
+ hedule). 
+CATEGORIES:READING
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — Topic: Evaluating Arguments — Fallacies
+TRIGGER;VALUE=DATE-TIME:20261203T140000Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3de7cc46-dc4d-574a-89cd-8bc5c5d40857@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:SSH105 — Test 1 — 15% (time not supplied)
+DESCRIPTION:Official test date. Duration: 60 minutes. Start time and room a
+ re not supplied in outline\; check your timetable/D2L. Test 1 takes place 
+ during first hour of the two-hour lecture period. No new reading this week
+ : catch up if necessary and watch the video lecture. Test coverage is not 
+ explicitly stated\; confirm with instructor. Source: SSH 105 Course Outlin
+ e - Fall 2026.pdf\, page 4 (schedule).  Bring a physical OneCard for tests
+ /exams (September 17 announcement)\; phone version does not suffice. Octob
+ er 8 reminder: Test 1 in TRS-1067 at start of lecture\; 60 minutes\, 15%\,
+  closed book. Coverage: textbook Chapters 1–2 and posted materials for L
+ ectures 1–4. Memorize section number and TA name\; bring pen. No lecture
+  immediately afterward\; watch the replacement short video. [See D2L]
+CATEGORIES:OFFICIAL
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — Test 1 — 15% (time not supplied) Bring a physical 
+ OneCard for tests/exams (September 17 announcement)\; phone version does n
+ ot suffice. October 8 reminder: Test 1 in TRS-1067 at start of lecture\; 6
+ 0 minutes\, 15%\, closed book. Coverage: textbook Chapters 1–2 and poste
+ d materials for Lectures 1–4. Memorize section number and TA name\; brin
+ g pen. No lecture immediately afterward\; watch the replacement short vide
+ o. [See D2L]
+TRIGGER;VALUE=DATE-TIME:20261002T130000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — Test 1 — 15% (time not supplied) Bring a physical 
+ OneCard for tests/exams (September 17 announcement)\; phone version does n
+ ot suffice. October 8 reminder: Test 1 in TRS-1067 at start of lecture\; 6
+ 0 minutes\, 15%\, closed book. Coverage: textbook Chapters 1–2 and poste
+ d materials for Lectures 1–4. Memorize section number and TA name\; brin
+ g pen. No lecture immediately afterward\; watch the replacement short vide
+ o. [See D2L]
+TRIGGER;VALUE=DATE-TIME:20261006T130000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — Test 1 — 15% (time not supplied) Bring a physical 
+ OneCard for tests/exams (September 17 announcement)\; phone version does n
+ ot suffice. October 8 reminder: Test 1 in TRS-1067 at start of lecture\; 6
+ 0 minutes\, 15%\, closed book. Coverage: textbook Chapters 1–2 and poste
+ d materials for Lectures 1–4. Memorize section number and TA name\; brin
+ g pen. No lecture immediately afterward\; watch the replacement short vide
+ o. [See D2L]
+TRIGGER;VALUE=DATE-TIME:20261008T130000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:20fe9d5d-9b37-5583-9cb4-95368bd28c88@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:SSH105 — Suggested study: Test 1
+DESCRIPTION:Review assigned readings\, lecture/video notes and tutorial exe
+ rcises to date\; practise argument problems. Confirm test coverage on D2L\
+ ; the outline does not state it. Suggested study date\, not a deadline. So
+ urce: SSH 105 Course Outline - Fall 2026.pdf\, page 4 (schedule).  Bring a
+  physical OneCard for tests/exams (September 17 announcement)\; phone vers
+ ion does not suffice. October 8 reminder: Test 1 in TRS-1067 at start of l
+ ecture\; 60 minutes\, 15%\, closed book. Coverage: textbook Chapters 1–2
+  and posted materials for Lectures 1–4. Memorize section number and TA n
+ ame\; bring pen. No lecture immediately afterward\; watch the replacement 
+ short video. [See D2L]
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — Suggested study: Test 1 Bring a physical OneCard for
+  tests/exams (September 17 announcement)\; phone version does not suffice.
+  October 8 reminder: Test 1 in TRS-1067 at start of lecture\; 60 minutes\,
+  15%\, closed book. Coverage: textbook Chapters 1–2 and posted materials
+  for Lectures 1–4. Memorize section number and TA name\; bring pen. No l
+ ecture immediately afterward\; watch the replacement short video. [See D2L
+ ]
+TRIGGER;VALUE=DATE-TIME:20261001T130000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:935150ab-f2c5-5120-8185-21b3de93fbfe@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:SSH105 — Test 2 — 20% (time not supplied)
+DESCRIPTION:Official test date. Duration: 75 minutes. Start time and room a
+ re not supplied in outline\; check your timetable/D2L. No new reading this
+  week: catch up if necessary and watch the video lecture. Test coverage is
+  not explicitly stated\; confirm with instructor. Source: SSH 105 Course O
+ utline - Fall 2026.pdf\, page 4 (schedule).  Bring a physical OneCard for 
+ tests/exams (September 17 announcement)\; phone version does not suffice.
+CATEGORIES:OFFICIAL
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — Test 2 — 20% (time not supplied) Bring a physical 
+ OneCard for tests/exams (September 17 announcement)\; phone version does n
+ ot suffice.
+TRIGGER;VALUE=DATE-TIME:20261023T130000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — Test 2 — 20% (time not supplied) Bring a physical 
+ OneCard for tests/exams (September 17 announcement)\; phone version does n
+ ot suffice.
+TRIGGER;VALUE=DATE-TIME:20261027T130000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — Test 2 — 20% (time not supplied) Bring a physical 
+ OneCard for tests/exams (September 17 announcement)\; phone version does n
+ ot suffice.
+TRIGGER;VALUE=DATE-TIME:20261029T130000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f9d5bae7-3f93-5d6f-8ebd-c7ed7fa01901@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:SSH105 — Suggested study: Test 2
+DESCRIPTION:Review assigned readings\, lecture/video notes and tutorial exe
+ rcises to date\; practise argument problems. Confirm test coverage on D2L\
+ ; the outline does not state it. Suggested study date\, not a deadline. So
+ urce: SSH 105 Course Outline - Fall 2026.pdf\, page 4 (schedule).  Bring a
+  physical OneCard for tests/exams (September 17 announcement)\; phone vers
+ ion does not suffice.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — Suggested study: Test 2 Bring a physical OneCard for
+  tests/exams (September 17 announcement)\; phone version does not suffice.
+TRIGGER;VALUE=DATE-TIME:20261022T130000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cdfe94ae-9a12-52b2-9cf9-7a3f67b5bcd4@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:SSH105 — Test 3 — 30% (time not supplied)
+DESCRIPTION:Official test date. Duration: 90 minutes. Start time and room a
+ re not supplied in outline\; check your timetable/D2L. No new reading this
+  week: catch up if necessary and watch the video lecture. Test coverage is
+  not explicitly stated\; confirm with instructor. Source: SSH 105 Course O
+ utline - Fall 2026.pdf\, page 4 (schedule).  Bring a physical OneCard for 
+ tests/exams (September 17 announcement)\; phone version does not suffice.
+CATEGORIES:OFFICIAL
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — Test 3 — 30% (time not supplied) Bring a physical 
+ OneCard for tests/exams (September 17 announcement)\; phone version does n
+ ot suffice.
+TRIGGER;VALUE=DATE-TIME:20261113T140000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — Test 3 — 30% (time not supplied) Bring a physical 
+ OneCard for tests/exams (September 17 announcement)\; phone version does n
+ ot suffice.
+TRIGGER;VALUE=DATE-TIME:20261117T140000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — Test 3 — 30% (time not supplied) Bring a physical 
+ OneCard for tests/exams (September 17 announcement)\; phone version does n
+ ot suffice.
+TRIGGER;VALUE=DATE-TIME:20261119T140000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:e46e4f9c-16a7-5059-97fe-05dfab75e9c9@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:SSH105 — Suggested study: Test 3
+DESCRIPTION:Review assigned readings\, lecture/video notes and tutorial exe
+ rcises to date\; practise argument problems. Confirm test coverage on D2L\
+ ; the outline does not state it. Suggested study date\, not a deadline. So
+ urce: SSH 105 Course Outline - Fall 2026.pdf\, page 4 (schedule).  Bring a
+  physical OneCard for tests/exams (September 17 announcement)\; phone vers
+ ion does not suffice.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — Suggested study: Test 3 Bring a physical OneCard for
+  tests/exams (September 17 announcement)\; phone version does not suffice.
+TRIGGER;VALUE=DATE-TIME:20261112T140000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:1c5cfbfd-8183-540b-85fc-87173091f652@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:SSH105 — DUE: Optional Navigate TMU bonus modules
+DESCRIPTION:Optional: up to six Navigate TMU modules\, roughly one hour eac
+ h including quiz. Each fully completed module earns +0.5% if quiz score is
+  at least 80%\; maximum +3%. One attempt per quiz. Official cutoff Monday 
+ December 7 at 11:59pm. Source: SSH105 outline page 1.
+CATEGORIES:OFFICIAL
+TRANSP:TRANSPARENT
+DTSTART:20261208T045900Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — DUE: Optional Navigate TMU bonus modules
+TRIGGER;VALUE=DATE-TIME:20261201T045900Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — DUE: Optional Navigate TMU bonus modules
+TRIGGER;VALUE=DATE-TIME:20261205T045900Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — DUE: Optional Navigate TMU bonus modules
+TRIGGER;VALUE=DATE-TIME:20261207T045900Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c0afd904-bc00-5a83-b2d8-331bba9004f6@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:SSH105 — Suggested preparation: optional bonus modules
+DESCRIPTION:If pursuing bonus credit\, plan time for six approximately one-
+ hour Navigate TMU modules before December 7\, 11:59pm. At least 80% on eac
+ h quiz\; only one attempt each. Suggested start date. Source: SSH105 outli
+ ne page 1.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — Suggested preparation: optional bonus modules
+TRIGGER;VALUE=DATE-TIME:20261122T140000Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1560cc9d-d504-5e75-8a21-42506c2244b4@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:SSH105 — Reading week begins — no classes
+DESCRIPTION:October 12–16: no classes. SSH105 also explicitly cancels tut
+ orials and office hours. Source: SSH 105 Course Outline - Fall 2026.pdf\, 
+ page 4 (schedule). 
+CATEGORIES:INFO
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+END:VEVENT
+BEGIN:VEVENT
+UID:b61f9fb8-5071-516a-88d6-5dc1567611e4@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:SSH105 — Suggested task: confirm final exam schedule
+DESCRIPTION:Check D2L and your official exam timetable for exact final date
+ \, time\, location and permitted materials. Outline lists December 9–20 
+ exam period only. SSH105 final: 3 hours\, 35%. Coverage not specified. Sug
+ gested check date\, not an official deadline. Source: SSH 105 Course Outli
+ ne - Fall 2026.pdf\, page 4 (schedule).  Bring a physical OneCard for test
+ s/exams (September 17 announcement)\; phone version does not suffice.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 — Suggested task: confirm final exam schedule Bring a 
+ physical OneCard for tests/exams (September 17 announcement)\; phone versi
+ on does not suffice.
+TRIGGER;VALUE=DATE-TIME:20261129T140000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:aafa6f02-8d4d-5062-8e66-c3a75e25f099@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:SSH105 — Final exam WINDOW begins — exact date TBD
+DESCRIPTION:December 9–20 is the exam period\, NOT an exam appointment. A
+ dd the actual date/time once published. Final exam lasts 3 hours and is wo
+ rth 35%. Source: SSH 105 Course Outline - Fall 2026.pdf\, page 4 (schedule
+ ). 
+CATEGORIES:INFO
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+END:VEVENT
+END:VCALENDAR

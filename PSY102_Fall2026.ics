@@ -1,0 +1,637 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Course Calendar//Fall 2026//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:PSY102 Fall 2026
+X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+UID:bab48b41-11de-541b-ae36-911b8adbfe8a@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:PSY102 — Reading: Chapter 1 — Psychology Yesterday & Today
+DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapter 
+ 1. Suggested preparation: summarize key concepts and make practice questio
+ ns. Reading is assigned to this course week\; the calendar uses its Tuesda
+ y class date\, not a separate submission deadline. Source: PSY102 021 Cour
+ se Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\
+ ; document heading says 011. Confirm your section.  Read the chapter befor
+ e class. Optional chapter Connections puzzles are on D2L. Chapter 1 also h
+ as an assigned video lecture.
+CATEGORIES:READING
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — Reading: Chapter 1 — Psychology Yesterday & Today 
+ Read the chapter before class. Optional chapter Connections puzzles are on
+  D2L. Chapter 1 also has an assigned video lecture.
+TRIGGER;VALUE=DATE-TIME:20260907T130000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:28c97391-bb17-5b23-a6f6-10bbaddc8bd4@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:PSY102 — Reading: Chapter 2 — Research Methods
+DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapter 
+ 2. Suggested preparation: summarize key concepts and make practice questio
+ ns. Reading is assigned to this course week\; the calendar uses its Tuesda
+ y class date\, not a separate submission deadline. Source: PSY102 021 Cour
+ se Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\
+ ; document heading says 011. Confirm your section.  Read the chapter befor
+ e class. Optional chapter Connections puzzles are on D2L. Chapter 1 also h
+ as an assigned video lecture.
+CATEGORIES:READING
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — Reading: Chapter 2 — Research Methods Read the cha
+ pter before class. Optional chapter Connections puzzles are on D2L. Chapte
+ r 1 also has an assigned video lecture.
+TRIGGER;VALUE=DATE-TIME:20260914T130000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5f4fad27-481b-5c6f-bbfe-73ae1186964e@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:PSY102 — Reading: Chapter 3 — Biological Psychology
+DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapter 
+ 3. Suggested preparation: summarize key concepts and make practice questio
+ ns. Reading is assigned to this course week\; the calendar uses its Tuesda
+ y class date\, not a separate submission deadline. Source: PSY102 021 Cour
+ se Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\
+ ; document heading says 011. Confirm your section.  Read the chapter befor
+ e class. Optional chapter Connections puzzles are on D2L. Chapter 1 also h
+ as an assigned video lecture.
+CATEGORIES:READING
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — Reading: Chapter 3 — Biological Psychology Read th
+ e chapter before class. Optional chapter Connections puzzles are on D2L. C
+ hapter 1 also has an assigned video lecture.
+TRIGGER;VALUE=DATE-TIME:20260921T130000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:7a634d47-1583-5e26-a5c1-a5080f0a716e@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:PSY102 — Reading: Chapter 5 — Sensation & Perception
+DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapter 
+ 5. Suggested preparation: summarize key concepts and make practice questio
+ ns. Reading is assigned to this course week\; the calendar uses its Tuesda
+ y class date\, not a separate submission deadline. Source: PSY102 021 Cour
+ se Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\
+ ; document heading says 011. Confirm your section.  Read the chapter befor
+ e class. Optional chapter Connections puzzles are on D2L. Chapter 1 also h
+ as an assigned video lecture.
+CATEGORIES:READING
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — Reading: Chapter 5 — Sensation & Perception Read t
+ he chapter before class. Optional chapter Connections puzzles are on D2L. 
+ Chapter 1 also has an assigned video lecture.
+TRIGGER;VALUE=DATE-TIME:20261005T130000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:0c9bae9a-5f86-5413-a122-3232c19b5331@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:PSY102 — Reading: Chapter 4 — Consciousness
+DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapter 
+ 4. Suggested preparation: summarize key concepts and make practice questio
+ ns. Reading is assigned to this course week\; the calendar uses its Tuesda
+ y class date\, not a separate submission deadline. Source: PSY102 021 Cour
+ se Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\
+ ; document heading says 011. Confirm your section.  Read the chapter befor
+ e class. Optional chapter Connections puzzles are on D2L. Chapter 1 also h
+ as an assigned video lecture.
+CATEGORIES:READING
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — Reading: Chapter 4 — Consciousness Read the chapte
+ r before class. Optional chapter Connections puzzles are on D2L. Chapter 1
+  also has an assigned video lecture.
+TRIGGER;VALUE=DATE-TIME:20261019T130000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:13aede0f-bb7d-5405-ae30-46d42ba0e840@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:PSY102 — Reading: Chapter 6 — Learning
+DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapter 
+ 6. Suggested preparation: summarize key concepts and make practice questio
+ ns. Reading is assigned to this course week\; the calendar uses its Tuesda
+ y class date\, not a separate submission deadline. Source: PSY102 021 Cour
+ se Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\
+ ; document heading says 011. Confirm your section.  Read the chapter befor
+ e class. Optional chapter Connections puzzles are on D2L. Chapter 1 also h
+ as an assigned video lecture.
+CATEGORIES:READING
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — Reading: Chapter 6 — Learning Read the chapter bef
+ ore class. Optional chapter Connections puzzles are on D2L. Chapter 1 also
+  has an assigned video lecture.
+TRIGGER;VALUE=DATE-TIME:20261026T130000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:92fbaeeb-344b-5632-923d-46b197506a7c@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:PSY102 — Reading: Chapter 6 — Learning continued
+DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapter 
+ 6. Suggested preparation: summarize key concepts and make practice questio
+ ns. Reading is assigned to this course week\; the calendar uses its Tuesda
+ y class date\, not a separate submission deadline. Source: PSY102 021 Cour
+ se Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\
+ ; document heading says 011. Confirm your section.  Read the chapter befor
+ e class. Optional chapter Connections puzzles are on D2L. Chapter 1 also h
+ as an assigned video lecture.
+CATEGORIES:READING
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — Reading: Chapter 6 — Learning continued Read the c
+ hapter before class. Optional chapter Connections puzzles are on D2L. Chap
+ ter 1 also has an assigned video lecture.
+TRIGGER;VALUE=DATE-TIME:20261102T140000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ef14a649-1bf5-51e2-8a4c-4b168f0e51ee@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:PSY102 — Reading: Chapter 7 — Language\, Thinking\, & Reasoning
+DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapter 
+ 7. Suggested preparation: summarize key concepts and make practice questio
+ ns. Reading is assigned to this course week\; the calendar uses its Tuesda
+ y class date\, not a separate submission deadline. Source: PSY102 021 Cour
+ se Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\
+ ; document heading says 011. Confirm your section.  Read the chapter befor
+ e class. Optional chapter Connections puzzles are on D2L. Chapter 1 also h
+ as an assigned video lecture.
+CATEGORIES:READING
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — Reading: Chapter 7 — Language\, Thinking\, & Reaso
+ ning Read the chapter before class. Optional chapter Connections puzzles a
+ re on D2L. Chapter 1 also has an assigned video lecture.
+TRIGGER;VALUE=DATE-TIME:20261116T140000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:4c7dd95f-3597-5428-9edf-83497ea210dd@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:PSY102 — Reading: Chapter 8 — Memory
+DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapter 
+ 8. Suggested preparation: summarize key concepts and make practice questio
+ ns. Reading is assigned to this course week\; the calendar uses its Tuesda
+ y class date\, not a separate submission deadline. Source: PSY102 021 Cour
+ se Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\
+ ; document heading says 011. Confirm your section.  Read the chapter befor
+ e class. Optional chapter Connections puzzles are on D2L. Chapter 1 also h
+ as an assigned video lecture.
+CATEGORIES:READING
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — Reading: Chapter 8 — Memory Read the chapter befor
+ e class. Optional chapter Connections puzzles are on D2L. Chapter 1 also h
+ as an assigned video lecture.
+TRIGGER;VALUE=DATE-TIME:20261123T140000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ca465f90-dda6-59b2-9e15-15e96470731d@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:PSY102 — Exam 1 (confirm section/timing)
+DESCRIPTION:In-class Exam 1\; 60 minutes\, no lecture afterward. Chapters 1
+ \, 2\, and 3. Multiple-choice and short-answer questions. Date inferred fr
+ om Tuesday class within the outline week\; 3pm start inferred from class t
+ ime. Confirm section and timing on D2L. Exam 2 is not cumulative. Weight c
+ onflict: assessment table says 29% per exam\; prose says 25%. Source: PSY1
+ 02 021 Course Outline F26_Plesa.docx\, Topics and Course Schedule. Filenam
+ e says 021\; document heading says 011. Confirm your section.  September 2
+ 2 announcement confirms September 29 at 3:10pm\, DSQ03\, 60 minutes\; supe
+ rsedes earlier inferred 3pm start. [See D2L] September 28 Exam FAQ: 40 mul
+ tiple-choice and 5 fill-in-the-blank short-answer questions\, no word bank
+  or diagrams\; read full assigned textbook chapters. Short-answer weightin
+ g conflicts between announcements (17% versus 20%)\; confirm with instruct
+ or.
+CATEGORIES:OFFICIAL
+TRANSP:TRANSPARENT
+DTSTART:20260929T191000Z
+DTEND:20260929T201000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — Exam 1 (confirm section/timing) September 22 announc
+ ement confirms September 29 at 3:10pm\, DSQ03\, 60 minutes\; supersedes ea
+ rlier inferred 3pm start. [See D2L] September 28 Exam FAQ: 40 multiple-cho
+ ice and 5 fill-in-the-blank short-answer questions\, no word bank or diagr
+ ams\; read full assigned textbook chapters. Short-answer weighting conflic
+ ts between announcements (17% versus 20%)\; confirm with instructor.
+TRIGGER;VALUE=DATE-TIME:20260922T190000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — Exam 1 (confirm section/timing) September 22 announc
+ ement confirms September 29 at 3:10pm\, DSQ03\, 60 minutes\; supersedes ea
+ rlier inferred 3pm start. [See D2L] September 28 Exam FAQ: 40 multiple-cho
+ ice and 5 fill-in-the-blank short-answer questions\, no word bank or diagr
+ ams\; read full assigned textbook chapters. Short-answer weighting conflic
+ ts between announcements (17% versus 20%)\; confirm with instructor.
+TRIGGER;VALUE=DATE-TIME:20260926T190000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — Exam 1 (confirm section/timing) September 22 announc
+ ement confirms September 29 at 3:10pm\, DSQ03\, 60 minutes\; supersedes ea
+ rlier inferred 3pm start. [See D2L] September 28 Exam FAQ: 40 multiple-cho
+ ice and 5 fill-in-the-blank short-answer questions\, no word bank or diagr
+ ams\; read full assigned textbook chapters. Short-answer weighting conflic
+ ts between announcements (17% versus 20%)\; confirm with instructor.
+TRIGGER;VALUE=DATE-TIME:20260928T190000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:39fcb5b7-f756-5307-9bbc-9d29b560d0c3@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:PSY102 — Suggested study: Exam 1
+DESCRIPTION:Review Chapters 1\, 2\, and 3\, lecture notes\, key terms and p
+ ractice multiple-choice and short-answer responses. Suggested study date\,
+  not an official deadline. Source: PSY102 021 Course Outline F26_Plesa.doc
+ x\, Topics and Course Schedule. Filename says 021\; document heading says 
+ 011. Confirm your section.  September 28 Exam FAQ: 40 multiple-choice and 
+ 5 fill-in-the-blank short-answer questions\, no word bank or diagrams\; re
+ ad full assigned textbook chapters. Short-answer weighting conflicts betwe
+ en announcements (17% versus 20%)\; confirm with instructor.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — Suggested study: Exam 1 September 28 Exam FAQ: 40 mu
+ ltiple-choice and 5 fill-in-the-blank short-answer questions\, no word ban
+ k or diagrams\; read full assigned textbook chapters. Short-answer weighti
+ ng conflicts between announcements (17% versus 20%)\; confirm with instruc
+ tor.
+TRIGGER;VALUE=DATE-TIME:20260921T130000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:d7f323d3-7b4d-521b-9ed6-cef60d24d71f@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:PSY102 — Exam 2 (confirm section/timing)
+DESCRIPTION:In-class Exam 2\; 60 minutes\, no lecture afterward. Chapters 4
+ \, 5\, and 6. Multiple-choice and short-answer questions. Date inferred fr
+ om Tuesday class within the outline week\; 3pm start inferred from class t
+ ime. Confirm section and timing on D2L. Exam 2 is not cumulative. Weight c
+ onflict: assessment table says 29% per exam\; prose says 25%. Source: PSY1
+ 02 021 Course Outline F26_Plesa.docx\, Topics and Course Schedule. Filenam
+ e says 021\; document heading says 011. Confirm your section.  September 2
+ 8 Exam FAQ: 40 multiple-choice and 5 fill-in-the-blank short-answer questi
+ ons\, no word bank or diagrams\; read full assigned textbook chapters. Sho
+ rt-answer weighting conflicts between announcements (17% versus 20%)\; con
+ firm with instructor.
+CATEGORIES:OFFICIAL
+TRANSP:TRANSPARENT
+DTSTART:20261110T200000Z
+DTEND:20261110T210000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — Exam 2 (confirm section/timing) September 28 Exam FA
+ Q: 40 multiple-choice and 5 fill-in-the-blank short-answer questions\, no 
+ word bank or diagrams\; read full assigned textbook chapters. Short-answer
+  weighting conflicts between announcements (17% versus 20%)\; confirm with
+  instructor.
+TRIGGER;VALUE=DATE-TIME:20261103T200000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — Exam 2 (confirm section/timing) September 28 Exam FA
+ Q: 40 multiple-choice and 5 fill-in-the-blank short-answer questions\, no 
+ word bank or diagrams\; read full assigned textbook chapters. Short-answer
+  weighting conflicts between announcements (17% versus 20%)\; confirm with
+  instructor.
+TRIGGER;VALUE=DATE-TIME:20261107T200000Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — Exam 2 (confirm section/timing) September 28 Exam FA
+ Q: 40 multiple-choice and 5 fill-in-the-blank short-answer questions\, no 
+ word bank or diagrams\; read full assigned textbook chapters. Short-answer
+  weighting conflicts between announcements (17% versus 20%)\; confirm with
+  instructor.
+TRIGGER;VALUE=DATE-TIME:20261109T200000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:d0e40597-5300-5e19-9c59-ce43fc06ec1b@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:PSY102 — Suggested study: Exam 2
+DESCRIPTION:Review Chapters 4\, 5\, and 6\, lecture notes\, key terms and p
+ ractice multiple-choice and short-answer responses. Suggested study date\,
+  not an official deadline. Source: PSY102 021 Course Outline F26_Plesa.doc
+ x\, Topics and Course Schedule. Filename says 021\; document heading says 
+ 011. Confirm your section.  September 28 Exam FAQ: 40 multiple-choice and 
+ 5 fill-in-the-blank short-answer questions\, no word bank or diagrams\; re
+ ad full assigned textbook chapters. Short-answer weighting conflicts betwe
+ en announcements (17% versus 20%)\; confirm with instructor.
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — Suggested study: Exam 2 September 28 Exam FAQ: 40 mu
+ ltiple-choice and 5 fill-in-the-blank short-answer questions\, no word ban
+ k or diagrams\; read full assigned textbook chapters. Short-answer weighti
+ ng conflicts between announcements (17% versus 20%)\; confirm with instruc
+ tor.
+TRIGGER;VALUE=DATE-TIME:20261102T140000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:9b14e4a5-b85d-55df-8be9-533470a51771@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:PSY102 — DUE: Written Assignment 1
+DESCRIPTION:Written Assignment 1\, worth 5%. Evaluate instructor-provided m
+ aterials for quality of evidence. Obtain full prompt\, requirements and su
+ bmission instructions from D2L. Due 11:59pm. Late penalty stated: 5% per d
+ ay unless extension granted in advance. Source: PSY102 021 Course Outline 
+ F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\; document 
+ heading says 011. Confirm your section.  D2L checked October 14: assignmen
+ t due dates unchanged. October 9 announcement: extensions require verified
+  ACR or appropriate accommodations\; maximum 7 days\, then -5% per day\; n
+ o submissions accepted after two weeks from original due date. This is not
+  an automatic extension. [See D2L]
+CATEGORIES:OFFICIAL
+TRANSP:TRANSPARENT
+DTSTART:20261010T035900Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — DUE: Written Assignment 1 D2L checked October 14: as
+ signment due dates unchanged. October 9 announcement: extensions require v
+ erified ACR or appropriate accommodations\; maximum 7 days\, then -5% per 
+ day\; no submissions accepted after two weeks from original due date. This
+  is not an automatic extension. [See D2L]
+TRIGGER;VALUE=DATE-TIME:20261003T035900Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — DUE: Written Assignment 1 D2L checked October 14: as
+ signment due dates unchanged. October 9 announcement: extensions require v
+ erified ACR or appropriate accommodations\; maximum 7 days\, then -5% per 
+ day\; no submissions accepted after two weeks from original due date. This
+  is not an automatic extension. [See D2L]
+TRIGGER;VALUE=DATE-TIME:20261007T035900Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — DUE: Written Assignment 1 D2L checked October 14: as
+ signment due dates unchanged. October 9 announcement: extensions require v
+ erified ACR or appropriate accommodations\; maximum 7 days\, then -5% per 
+ day\; no submissions accepted after two weeks from original due date. This
+  is not an automatic extension. [See D2L]
+TRIGGER;VALUE=DATE-TIME:20261009T035900Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:d0ae7cc6-451a-5a3d-8644-c9e1833e1e9a@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:PSY102 — Suggested preparation: Assignment 1
+DESCRIPTION:Read the D2L prompt and supplied materials\; plan your evidence
+  evaluation\, draft independently\, and leave time to check requirements. 
+ Suggested preparation date\, not an official deadline. Source: PSY102 021 
+ Course Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 
+ 021\; document heading says 011. Confirm your section.  D2L checked Octobe
+ r 14: assignment due dates unchanged. October 9 announcement: extensions r
+ equire verified ACR or appropriate accommodations\; maximum 7 days\, then 
+ -5% per day\; no submissions accepted after two weeks from original due da
+ te. This is not an automatic extension. [See D2L]
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — Suggested preparation: Assignment 1 D2L checked Octo
+ ber 14: assignment due dates unchanged. October 9 announcement: extensions
+  require verified ACR or appropriate accommodations\; maximum 7 days\, the
+ n -5% per day\; no submissions accepted after two weeks from original due 
+ date. This is not an automatic extension. [See D2L]
+TRIGGER;VALUE=DATE-TIME:20261001T130000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:e7e82ca8-9dc7-5257-8129-d18d9a1589a5@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:PSY102 — DUE: Written Assignment 2
+DESCRIPTION:Written Assignment 2\, worth 5%. Evaluate instructor-provided m
+ aterials for quality of evidence. Obtain full prompt\, requirements and su
+ bmission instructions from D2L. Due 11:59pm. Late penalty stated: 5% per d
+ ay unless extension granted in advance. Source: PSY102 021 Course Outline 
+ F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\; document 
+ heading says 011. Confirm your section.  D2L checked October 14: assignmen
+ t due dates unchanged. October 9 announcement: extensions require verified
+  ACR or appropriate accommodations\; maximum 7 days\, then -5% per day\; n
+ o submissions accepted after two weeks from original due date. This is not
+  an automatic extension. [See D2L]
+CATEGORIES:OFFICIAL
+TRANSP:TRANSPARENT
+DTSTART:20261121T045900Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — DUE: Written Assignment 2 D2L checked October 14: as
+ signment due dates unchanged. October 9 announcement: extensions require v
+ erified ACR or appropriate accommodations\; maximum 7 days\, then -5% per 
+ day\; no submissions accepted after two weeks from original due date. This
+  is not an automatic extension. [See D2L]
+TRIGGER;VALUE=DATE-TIME:20261114T045900Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — DUE: Written Assignment 2 D2L checked October 14: as
+ signment due dates unchanged. October 9 announcement: extensions require v
+ erified ACR or appropriate accommodations\; maximum 7 days\, then -5% per 
+ day\; no submissions accepted after two weeks from original due date. This
+  is not an automatic extension. [See D2L]
+TRIGGER;VALUE=DATE-TIME:20261118T045900Z
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — DUE: Written Assignment 2 D2L checked October 14: as
+ signment due dates unchanged. October 9 announcement: extensions require v
+ erified ACR or appropriate accommodations\; maximum 7 days\, then -5% per 
+ day\; no submissions accepted after two weeks from original due date. This
+  is not an automatic extension. [See D2L]
+TRIGGER;VALUE=DATE-TIME:20261120T045900Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:c2ab25eb-ff0b-512f-be9c-74acaad2f8b1@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:PSY102 — Suggested preparation: Assignment 2
+DESCRIPTION:Read the D2L prompt and supplied materials\; plan your evidence
+  evaluation\, draft independently\, and leave time to check requirements. 
+ Suggested preparation date\, not an official deadline. Source: PSY102 021 
+ Course Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 
+ 021\; document heading says 011. Confirm your section.  D2L checked Octobe
+ r 14: assignment due dates unchanged. October 9 announcement: extensions r
+ equire verified ACR or appropriate accommodations\; maximum 7 days\, then 
+ -5% per day\; no submissions accepted after two weeks from original due da
+ te. This is not an automatic extension. [See D2L]
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — Suggested preparation: Assignment 2 D2L checked Octo
+ ber 14: assignment due dates unchanged. October 9 announcement: extensions
+  require verified ACR or appropriate accommodations\; maximum 7 days\, the
+ n -5% per day\; no submissions accepted after two weeks from original due 
+ date. This is not an automatic extension. [See D2L]
+TRIGGER;VALUE=DATE-TIME:20261112T140000Z
+END:VALARM
+SEQUENCE:1
+LAST-MODIFIED:20261014T060000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:9e6f2ee8-7bc5-5046-9a60-7e7750b604e7@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:PSY102 — In-class review (confirm section)
+DESCRIPTION:Review session: 90 minutes\, no lecture afterward. Tuesday/date
+  and 3pm start inferred from class schedule. Source: PSY102 021 Course Out
+ line F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\; docu
+ ment heading says 011. Confirm your section. 
+CATEGORIES:CLASS
+TRANSP:TRANSPARENT
+DTSTART:20261201T200000Z
+DTEND:20261201T213000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — In-class review (confirm section)
+TRIGGER;VALUE=DATE-TIME:20261130T200000Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dc252e92-b8f5-5095-8ab1-753fdf15b2a9@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:PSY102 — Reading week begins — no classes
+DESCRIPTION:October 12–16: no classes. SSH105 also explicitly cancels tut
+ orials and office hours. Source: PSY102 021 Course Outline F26_Plesa.docx\
+ , Topics and Course Schedule. Filename says 021\; document heading says 01
+ 1. Confirm your section. 
+CATEGORIES:INFO
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+END:VEVENT
+BEGIN:VEVENT
+UID:8723ca88-44f4-539c-8e3c-048d45408975@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:PSY102 — Suggested task: confirm final exam schedule
+DESCRIPTION:Check D2L and your official exam timetable for exact final date
+ \, time\, location and permitted materials. Outline lists December 9–20 
+ exam period only. PSY102 final is cumulative\; table says 29%\, prose says
+  25%. Suggested check date\, not an official deadline. Source: PSY102 021 
+ Course Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 
+ 021\; document heading says 011. Confirm your section. 
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — Suggested task: confirm final exam schedule
+TRIGGER;VALUE=DATE-TIME:20261129T140000Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3f62d2c9-3312-5d86-9216-a194fea71c98@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:PSY102 — Final exam WINDOW begins — exact date TBD
+DESCRIPTION:December 9–20 is the exam period\, NOT an exam appointment. A
+ dd the actual date/time once published. Cumulative final. Weight conflict:
+  29% in table versus 25% in prose. Source: PSY102 021 Course Outline F26_P
+ lesa.docx\, Topics and Course Schedule. Filename says 021\; document headi
+ ng says 011. Confirm your section. 
+CATEGORIES:INFO
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+END:VEVENT
+BEGIN:VEVENT
+UID:a6814ec1-91b9-5035-9655-77d6bbff612d@course-calendar
+DTSTAMP:20261013T160000Z
+SUMMARY:PSY102 — Suggested task: check Sona requirements
+DESCRIPTION:Research contributions worth up to 3%\; individual studies prov
+ ide 0.5–2%. Check TMU email for Sona login and available studies\; ask [
+ contact in D2L] about opportunities and completion cutoff. No official dea
+ dline stated in outline. Suggested check date. Source: PSY102 021 Course O
+ utline F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\; do
+ cument heading says 011. Confirm your section. 
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 — Suggested task: check Sona requirements
+TRIGGER;VALUE=DATE-TIME:20261018T130000Z
+END:VALARM
+END:VEVENT
+END:VCALENDAR
