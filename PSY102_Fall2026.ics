@@ -119,7 +119,8 @@ DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapter
  se Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\
  ; document heading says 011. Confirm your section.  Read the chapter befor
  e class. Optional chapter Connections puzzles are on D2L. Chapter 1 also h
- as an assigned video lecture.
+ as an assigned video lecture. Sync test — October 14, 2026. Temporary no
+ te; course dates unchanged.
 CATEGORIES:READING
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261020
@@ -128,11 +129,12 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PSY102 — Reading: Chapter 4 — Consciousness Read the chapte
  r before class. Optional chapter Connections puzzles are on D2L. Chapter 1
-  also has an assigned video lecture.
+  also has an assigned video lecture. Sync test — October 14, 2026. Tempo
+ rary note; course dates unchanged.
 TRIGGER;VALUE=DATE-TIME:20261019T130000Z
 END:VALARM
-SEQUENCE:1
-LAST-MODIFIED:20261014T060000Z
+SEQUENCE:2
+LAST-MODIFIED:20261014T055510Z
 END:VEVENT
 BEGIN:VEVENT
 UID:13aede0f-bb7d-5405-ae30-46d42ba0e840@course-calendar
