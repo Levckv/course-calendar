@@ -326,18 +326,26 @@ LAST-MODIFIED:20261014T060000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:935150ab-f2c5-5120-8185-21b3de93fbfe@course-calendar
-DTSTAMP:20261013T160000Z
-SUMMARY:SSH105 — Test 2 — 20% (time not supplied)
-DESCRIPTION:Official test date. Duration: 75 minutes. Start time and room a
- re not supplied in outline\; check your timetable/D2L. No new reading this
-  week: catch up if necessary and watch the video lecture. Test coverage is
-  not explicitly stated\; confirm with instructor. Source: SSH 105 Course O
- utline - Fall 2026.pdf\, page 4 (schedule).  Bring a physical OneCard for 
- tests/exams (September 17 announcement)\; phone version does not suffice.
 CATEGORIES:OFFICIAL
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
+SUMMARY:SSH105 — Test 2 — 20% — TRS-1067
+DESCRIPTION:Official test date: Friday October 30\, during the first two-ho
+ ur lecture\, in TRS-1067. Duration: 75 minutes. Exact clock start time is 
+ not supplied in the source\; check your timetable and arrive on time. Cumu
+ lative coverage: textbook Chapters 1–3 and all material in lecture slide
+ s 1–6. Closed-book\; no aids. Likely multiple choice\, true/false (some 
+ with explanations)\, and short answers. Bring a pen and physical TMU stude
+ nt card\; memorize your section number and TA name. No in-person lecture a
+ fter the test\; watch and take notes on the replacement recorded lecture. 
+ Tests returned in tutorial Week 9\, November 9–13. Only students officia
+ lly approved for the Test Centre should book there well in advance. Source
+ : Lecture 6 posted slides\, slide 3\; course outline for 20% weighting. Al
+ l-day calendar entry preserves the date without inventing a start time.
+SEQUENCE:2
+DTSTAMP:20261015T190718Z
+LAST-MODIFIED:20261015T190718Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:SSH105 — Test 2 — 20% (time not supplied) Bring a physical 
@@ -364,18 +372,21 @@ LAST-MODIFIED:20261014T060000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:f9d5bae7-3f93-5d6f-8ebd-c7ed7fa01901@course-calendar
-DTSTAMP:20261013T160000Z
-SUMMARY:SSH105 — Suggested study: Test 2
-DESCRIPTION:Review assigned readings\, lecture/video notes and tutorial exe
- rcises to date\; practise argument problems. Confirm test coverage on D2L\
- ; the outline does not state it. Suggested study date\, not a deadline. So
- urce: SSH 105 Course Outline - Fall 2026.pdf\, page 4 (schedule).  Bring a
-  physical OneCard for tests/exams (September 17 announcement)\; phone vers
- ion does not suffice.
 CATEGORIES:STUDY
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
+SUMMARY:SSH105 — Suggested study: Test 2
+DESCRIPTION:Suggested study reminder\, not an official deadline. Prepare fo
+ r the October 30 Test 2: review textbook Chapters 1–3 and all lecture sl
+ ides 1–6\; practice argument problems and tutorial exercises\; review Te
+ st 1 feedback. The test is cumulative\, closed-book\, 75 minutes\, in TRS-
+ 1067 during the first two-hour lecture. Prepare a pen and physical TMU stu
+ dent card\; memorize section number and TA name. Exact clock start time: c
+ heck timetable. Source: Lecture 6 posted slides\, slide 3.
+SEQUENCE:2
+DTSTAMP:20261015T190718Z
+LAST-MODIFIED:20261015T190718Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:SSH105 — Suggested study: Test 2 Bring a physical OneCard for

@@ -110,20 +110,21 @@ LAST-MODIFIED:20261014T060000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:0c9bae9a-5f86-5413-a122-3232c19b5331@course-calendar
-DTSTAMP:20261013T160000Z
-SUMMARY:PSY102 — Reading: Chapter 4 — Consciousness
-DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapter 
- 4. Suggested preparation: summarize key concepts and make practice questio
- ns. Reading is assigned to this course week\; the calendar uses its Tuesda
- y class date\, not a separate submission deadline. Source: PSY102 021 Cour
- se Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\
- ; document heading says 011. Confirm your section.  Read the chapter befor
- e class. Optional chapter Connections puzzles are on D2L. Chapter 1 also h
- as an assigned video lecture.
 CATEGORIES:READING
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
+SUMMARY:PSY102 — No in-person class: Chapter 4 + recorded lecture
+DESCRIPTION:No in-person class during October 19–23. Read OpenStax Psycho
+ logy 2e\, Chapter 4 (States of Consciousness)\, and watch the recorded Cha
+ pter 4 lecture under Video Lectures. Suggested preparation: summarize key 
+ concepts and make practice questions. October 20 is the course-week readin
+ g/reminder date\, not a submission deadline. Classes resume the following 
+ week. Source: October 15 D2L announcement\, No Class Next Week\; course ou
+ tline.
+SEQUENCE:4
+DTSTAMP:20261015T190718Z
+LAST-MODIFIED:20261015T190718Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PSY102 — Reading: Chapter 4 — Consciousness Read the chapte
