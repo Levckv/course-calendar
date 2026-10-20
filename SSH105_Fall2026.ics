@@ -343,9 +343,9 @@ DESCRIPTION:Official test date: Friday October 30\, during the first two-ho
  lly approved for the Test Centre should book there well in advance. Source
  : Lecture 6 posted slides\, slide 3\; course outline for 20% weighting. Al
  l-day calendar entry preserves the date without inventing a start time.
-SEQUENCE:2
-DTSTAMP:20261015T190718Z
-LAST-MODIFIED:20261015T190718Z
+SEQUENCE:3
+DTSTAMP:20261020T161110Z
+LAST-MODIFIED:20261020T161110Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:SSH105 — Test 2 — 20% (time not supplied) Bring a physical 
@@ -367,8 +367,6 @@ DESCRIPTION:SSH105 — Test 2 — 20% (time not supplied) Bring a physical
  ot suffice.
 TRIGGER;VALUE=DATE-TIME:20261029T130000Z
 END:VALARM
-SEQUENCE:1
-LAST-MODIFIED:20261014T060000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:f9d5bae7-3f93-5d6f-8ebd-c7ed7fa01901@course-calendar
@@ -383,18 +381,22 @@ DESCRIPTION:Suggested study reminder\, not an official deadline. Prepare fo
  st 1 feedback. The test is cumulative\, closed-book\, 75 minutes\, in TRS-
  1067 during the first two-hour lecture. Prepare a pen and physical TMU stu
  dent card\; memorize section number and TA name. Exact clock start time: c
- heck timetable. Source: Lecture 6 posted slides\, slide 3.
-SEQUENCE:2
-DTSTAMP:20261015T190718Z
-LAST-MODIFIED:20261015T190718Z
+ heck timetable. Source: Lecture 6 posted slides\, slide 3. October 19 anno
+ uncements: Test 1 feedback videos for Versions A and B are now available i
+ n D2L. Watch the feedback for your test version and use it to guide revisi
+ on. All SLG (supported learning group) sessions are paused until further n
+ otice\; no restart date is announced. This does not cancel regular lecture
+ s or tutorials. October 23 remains a suggested study date\, not a deadline
+  for watching the feedback.
+SEQUENCE:3
+DTSTAMP:20261020T161110Z
+LAST-MODIFIED:20261020T161110Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:SSH105 — Suggested study: Test 2 Bring a physical OneCard for
   tests/exams (September 17 announcement)\; phone version does not suffice.
 TRIGGER;VALUE=DATE-TIME:20261022T130000Z
 END:VALARM
-SEQUENCE:1
-LAST-MODIFIED:20261014T060000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cdfe94ae-9a12-52b2-9cf9-7a3f67b5bcd4@course-calendar

@@ -122,9 +122,9 @@ DESCRIPTION:No in-person class during October 19–23. Read OpenStax Psycho
  g/reminder date\, not a submission deadline. Classes resume the following 
  week. Source: October 15 D2L announcement\, No Class Next Week\; course ou
  tline.
-SEQUENCE:4
-DTSTAMP:20261015T190718Z
-LAST-MODIFIED:20261015T190718Z
+SEQUENCE:5
+DTSTAMP:20261020T161110Z
+LAST-MODIFIED:20261020T161110Z
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:PSY102 — Reading: Chapter 4 — Consciousness Read the chapte
@@ -132,8 +132,6 @@ DESCRIPTION:PSY102 — Reading: Chapter 4 — Consciousness Read the chapte
   also has an assigned video lecture.
 TRIGGER;VALUE=DATE-TIME:20261019T130000Z
 END:VALARM
-SEQUENCE:3
-LAST-MODIFIED:20261014T055510Z
 END:VEVENT
 BEGIN:VEVENT
 UID:13aede0f-bb7d-5405-ae30-46d42ba0e840@course-calendar
