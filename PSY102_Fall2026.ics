@@ -581,37 +581,60 @@ DTEND;VALUE=DATE:20261013
 END:VEVENT
 BEGIN:VEVENT
 UID:8723ca88-44f4-539c-8e3c-048d45408975@course-calendar
-DTSTAMP:20261013T160000Z
-SUMMARY:PSY102 — Suggested task: confirm final exam schedule
-DESCRIPTION:Check D2L and your official exam timetable for exact final date
- \, time\, location and permitted materials. Outline lists December 9–20 
- exam period only. PSY102 final is cumulative\; table says 29%\, prose says
-  25%. Suggested check date\, not an official deadline. Source: PSY102 021 
- Course Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 
- 021\; document heading says 011. Confirm your section. 
+DTSTAMP:20261103T201635Z
+SEQUENCE:1
+LAST-MODIFIED:20261103T201635Z
+SUMMARY:PSY102 — Suggested task: confirm exam room and materials
+DESCRIPTION:Final exam is December 16\, 2026\, 3–5 p.m. Toronto time\, as
+  supplied by the user November 3. Check the official timetable for room an
+ d permitted materials. Suggested check date\, not an official deadline.
 CATEGORIES:STUDY
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — Suggested task: confirm final exam schedule
+DESCRIPTION:Final exam is December 16\, 2026\, 3–5 p.m. Toronto time\, as
+  supplied by the user November 3. Check the official timetable for room an
+ d permitted materials. Suggested check date\, not an official deadline.
 TRIGGER;VALUE=DATE-TIME:20261129T140000Z
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:3f62d2c9-3312-5d86-9216-a194fea71c98@course-calendar
-DTSTAMP:20261013T160000Z
-SUMMARY:PSY102 — Final exam WINDOW begins — exact date TBD
-DESCRIPTION:December 9–20 is the exam period\, NOT an exam appointment. A
- dd the actual date/time once published. Cumulative final. Weight conflict:
-  29% in table versus 25% in prose. Source: PSY102 021 Course Outline F26_P
- lesa.docx\, Topics and Course Schedule. Filename says 021\; document headi
- ng says 011. Confirm your section. 
-CATEGORIES:INFO
-TRANSP:TRANSPARENT
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
+DTSTAMP:20261103T201635Z
+SEQUENCE:1
+LAST-MODIFIED:20261103T201635Z
+SUMMARY:PSY102 — Final exam
+DESCRIPTION:Final exam: December 16\, 2026\, 3:00–5:00 p.m. America/Toron
+ to. Date and time supplied by the user on November 3\, 2026\; not independ
+ ently reverified on D2L. Cumulative final: review assigned chapters and le
+ cture notes. Location and permitted materials remain to be confirmed. Outl
+ ine weight conflict remains: 29% in assessment table versus 25% in prose.
+CATEGORIES:OFFICIAL
+TRANSP:OPAQUE
+DTSTART:20261216T200000Z
+DTEND:20261216T220000Z
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 final exam — December 16 at 3 p.m. Toronto time
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 final exam — December 16 at 3 p.m. Toronto time
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 final exam — December 16 at 3 p.m. Toronto time
+TRIGGER:-P1D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:PSY102 final exam — December 16 at 3 p.m. Toronto time
+TRIGGER:-PT1H
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:a6814ec1-91b9-5035-9655-77d6bbff612d@course-calendar
