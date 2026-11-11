@@ -8,23 +8,23 @@ BEGIN:VEVENT
 UID:bab48b41-11de-541b-ae36-911b8adbfe8a@course-calendar
 DTSTAMP:20261013T160000Z
 SUMMARY:PSY102 — Reading: Chapter 1 — Psychology Yesterday & Today
-DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapter 
- 1. Suggested preparation: summarize key concepts and make practice questio
- ns. Reading is assigned to this course week\; the calendar uses its Tuesda
- y class date\, not a separate submission deadline. Source: PSY102 021 Cour
- se Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\
- ; document heading says 011. Confirm your section.  Read the chapter befor
- e class. Optional chapter Connections puzzles are on D2L. Chapter 1 also h
- as an assigned video lecture.
+DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapte
+ r 1. Suggested preparation: summarize key concepts and make practice que
+ stions. Reading is assigned to this course week\; the calendar uses its 
+ Tuesday class date\, not a separate submission deadline. Source: PSY102 
+ 021 Course Outline F26_Plesa.docx\, Topics and Course Schedule. Filename
+  says 021\; document heading says 011. Confirm your section.  Read the c
+ hapter before class. Optional chapter Connections puzzles are on D2L. Ch
+ apter 1 also has an assigned video lecture.
 CATEGORIES:READING
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — Reading: Chapter 1 — Psychology Yesterday & Today 
- Read the chapter before class. Optional chapter Connections puzzles are on
-  D2L. Chapter 1 also has an assigned video lecture.
+DESCRIPTION:PSY102 — Reading: Chapter 1 — Psychology Yesterday & Toda
+ y Read the chapter before class. Optional chapter Connections puzzles ar
+ e on D2L. Chapter 1 also has an assigned video lecture.
 TRIGGER;VALUE=DATE-TIME:20260907T130000Z
 END:VALARM
 SEQUENCE:1
@@ -34,23 +34,23 @@ BEGIN:VEVENT
 UID:28c97391-bb17-5b23-a6f6-10bbaddc8bd4@course-calendar
 DTSTAMP:20261013T160000Z
 SUMMARY:PSY102 — Reading: Chapter 2 — Research Methods
-DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapter 
- 2. Suggested preparation: summarize key concepts and make practice questio
- ns. Reading is assigned to this course week\; the calendar uses its Tuesda
- y class date\, not a separate submission deadline. Source: PSY102 021 Cour
- se Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\
- ; document heading says 011. Confirm your section.  Read the chapter befor
- e class. Optional chapter Connections puzzles are on D2L. Chapter 1 also h
- as an assigned video lecture.
+DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapte
+ r 2. Suggested preparation: summarize key concepts and make practice que
+ stions. Reading is assigned to this course week\; the calendar uses its 
+ Tuesday class date\, not a separate submission deadline. Source: PSY102 
+ 021 Course Outline F26_Plesa.docx\, Topics and Course Schedule. Filename
+  says 021\; document heading says 011. Confirm your section.  Read the c
+ hapter before class. Optional chapter Connections puzzles are on D2L. Ch
+ apter 1 also has an assigned video lecture.
 CATEGORIES:READING
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — Reading: Chapter 2 — Research Methods Read the cha
- pter before class. Optional chapter Connections puzzles are on D2L. Chapte
- r 1 also has an assigned video lecture.
+DESCRIPTION:PSY102 — Reading: Chapter 2 — Research Methods Read the c
+ hapter before class. Optional chapter Connections puzzles are on D2L. Ch
+ apter 1 also has an assigned video lecture.
 TRIGGER;VALUE=DATE-TIME:20260914T130000Z
 END:VALARM
 SEQUENCE:1
@@ -60,23 +60,23 @@ BEGIN:VEVENT
 UID:5f4fad27-481b-5c6f-bbfe-73ae1186964e@course-calendar
 DTSTAMP:20261013T160000Z
 SUMMARY:PSY102 — Reading: Chapter 3 — Biological Psychology
-DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapter 
- 3. Suggested preparation: summarize key concepts and make practice questio
- ns. Reading is assigned to this course week\; the calendar uses its Tuesda
- y class date\, not a separate submission deadline. Source: PSY102 021 Cour
- se Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\
- ; document heading says 011. Confirm your section.  Read the chapter befor
- e class. Optional chapter Connections puzzles are on D2L. Chapter 1 also h
- as an assigned video lecture.
+DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapte
+ r 3. Suggested preparation: summarize key concepts and make practice que
+ stions. Reading is assigned to this course week\; the calendar uses its 
+ Tuesday class date\, not a separate submission deadline. Source: PSY102 
+ 021 Course Outline F26_Plesa.docx\, Topics and Course Schedule. Filename
+  says 021\; document heading says 011. Confirm your section.  Read the c
+ hapter before class. Optional chapter Connections puzzles are on D2L. Ch
+ apter 1 also has an assigned video lecture.
 CATEGORIES:READING
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — Reading: Chapter 3 — Biological Psychology Read th
- e chapter before class. Optional chapter Connections puzzles are on D2L. C
- hapter 1 also has an assigned video lecture.
+DESCRIPTION:PSY102 — Reading: Chapter 3 — Biological Psychology Read 
+ the chapter before class. Optional chapter Connections puzzles are on D2
+ L. Chapter 1 also has an assigned video lecture.
 TRIGGER;VALUE=DATE-TIME:20260921T130000Z
 END:VALARM
 SEQUENCE:1
@@ -86,23 +86,23 @@ BEGIN:VEVENT
 UID:7a634d47-1583-5e26-a5c1-a5080f0a716e@course-calendar
 DTSTAMP:20261013T160000Z
 SUMMARY:PSY102 — Reading: Chapter 5 — Sensation & Perception
-DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapter 
- 5. Suggested preparation: summarize key concepts and make practice questio
- ns. Reading is assigned to this course week\; the calendar uses its Tuesda
- y class date\, not a separate submission deadline. Source: PSY102 021 Cour
- se Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\
- ; document heading says 011. Confirm your section.  Read the chapter befor
- e class. Optional chapter Connections puzzles are on D2L. Chapter 1 also h
- as an assigned video lecture.
+DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapte
+ r 5. Suggested preparation: summarize key concepts and make practice que
+ stions. Reading is assigned to this course week\; the calendar uses its 
+ Tuesday class date\, not a separate submission deadline. Source: PSY102 
+ 021 Course Outline F26_Plesa.docx\, Topics and Course Schedule. Filename
+  says 021\; document heading says 011. Confirm your section.  Read the c
+ hapter before class. Optional chapter Connections puzzles are on D2L. Ch
+ apter 1 also has an assigned video lecture.
 CATEGORIES:READING
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — Reading: Chapter 5 — Sensation & Perception Read t
- he chapter before class. Optional chapter Connections puzzles are on D2L. 
- Chapter 1 also has an assigned video lecture.
+DESCRIPTION:PSY102 — Reading: Chapter 5 — Sensation & Perception Read
+  the chapter before class. Optional chapter Connections puzzles are on D
+ 2L. Chapter 1 also has an assigned video lecture.
 TRIGGER;VALUE=DATE-TIME:20261005T130000Z
 END:VALARM
 SEQUENCE:1
@@ -115,21 +115,21 @@ TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:PSY102 — No in-person class: Chapter 4 + recorded lecture
-DESCRIPTION:No in-person class during October 19–23. Read OpenStax Psycho
- logy 2e\, Chapter 4 (States of Consciousness)\, and watch the recorded Cha
- pter 4 lecture under Video Lectures. Suggested preparation: summarize key 
- concepts and make practice questions. October 20 is the course-week readin
- g/reminder date\, not a submission deadline. Classes resume the following 
- week. Source: October 15 D2L announcement\, No Class Next Week\; course ou
- tline.
+DESCRIPTION:No in-person class during October 19–23. Read OpenStax Psyc
+ hology 2e\, Chapter 4 (States of Consciousness)\, and watch the recorded
+  Chapter 4 lecture under Video Lectures. Suggested preparation: summariz
+ e key concepts and make practice questions. October 20 is the course-wee
+ k reading/reminder date\, not a submission deadline. Classes resume the 
+ following week. Source: October 15 D2L announcement\, No Class Next Week
+ \; course outline.
 SEQUENCE:5
 DTSTAMP:20261020T161110Z
 LAST-MODIFIED:20261020T161110Z
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — Reading: Chapter 4 — Consciousness Read the chapte
- r before class. Optional chapter Connections puzzles are on D2L. Chapter 1
-  also has an assigned video lecture.
+DESCRIPTION:PSY102 — Reading: Chapter 4 — Consciousness Read the chap
+ ter before class. Optional chapter Connections puzzles are on D2L. Chapt
+ er 1 also has an assigned video lecture.
 TRIGGER;VALUE=DATE-TIME:20261019T130000Z
 END:VALARM
 END:VEVENT
@@ -137,23 +137,23 @@ BEGIN:VEVENT
 UID:13aede0f-bb7d-5405-ae30-46d42ba0e840@course-calendar
 DTSTAMP:20261013T160000Z
 SUMMARY:PSY102 — Reading: Chapter 6 — Learning
-DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapter 
- 6. Suggested preparation: summarize key concepts and make practice questio
- ns. Reading is assigned to this course week\; the calendar uses its Tuesda
- y class date\, not a separate submission deadline. Source: PSY102 021 Cour
- se Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\
- ; document heading says 011. Confirm your section.  Read the chapter befor
- e class. Optional chapter Connections puzzles are on D2L. Chapter 1 also h
- as an assigned video lecture.
+DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapte
+ r 6. Suggested preparation: summarize key concepts and make practice que
+ stions. Reading is assigned to this course week\; the calendar uses its 
+ Tuesday class date\, not a separate submission deadline. Source: PSY102 
+ 021 Course Outline F26_Plesa.docx\, Topics and Course Schedule. Filename
+  says 021\; document heading says 011. Confirm your section.  Read the c
+ hapter before class. Optional chapter Connections puzzles are on D2L. Ch
+ apter 1 also has an assigned video lecture.
 CATEGORIES:READING
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — Reading: Chapter 6 — Learning Read the chapter bef
- ore class. Optional chapter Connections puzzles are on D2L. Chapter 1 also
-  has an assigned video lecture.
+DESCRIPTION:PSY102 — Reading: Chapter 6 — Learning Read the chapter b
+ efore class. Optional chapter Connections puzzles are on D2L. Chapter 1 
+ also has an assigned video lecture.
 TRIGGER;VALUE=DATE-TIME:20261026T130000Z
 END:VALARM
 SEQUENCE:1
@@ -163,23 +163,23 @@ BEGIN:VEVENT
 UID:92fbaeeb-344b-5632-923d-46b197506a7c@course-calendar
 DTSTAMP:20261013T160000Z
 SUMMARY:PSY102 — Reading: Chapter 6 — Learning continued
-DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapter 
- 6. Suggested preparation: summarize key concepts and make practice questio
- ns. Reading is assigned to this course week\; the calendar uses its Tuesda
- y class date\, not a separate submission deadline. Source: PSY102 021 Cour
- se Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\
- ; document heading says 011. Confirm your section.  Read the chapter befor
- e class. Optional chapter Connections puzzles are on D2L. Chapter 1 also h
- as an assigned video lecture.
+DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapte
+ r 6. Suggested preparation: summarize key concepts and make practice que
+ stions. Reading is assigned to this course week\; the calendar uses its 
+ Tuesday class date\, not a separate submission deadline. Source: PSY102 
+ 021 Course Outline F26_Plesa.docx\, Topics and Course Schedule. Filename
+  says 021\; document heading says 011. Confirm your section.  Read the c
+ hapter before class. Optional chapter Connections puzzles are on D2L. Ch
+ apter 1 also has an assigned video lecture.
 CATEGORIES:READING
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — Reading: Chapter 6 — Learning continued Read the c
- hapter before class. Optional chapter Connections puzzles are on D2L. Chap
- ter 1 also has an assigned video lecture.
+DESCRIPTION:PSY102 — Reading: Chapter 6 — Learning continued Read the
+  chapter before class. Optional chapter Connections puzzles are on D2L. 
+ Chapter 1 also has an assigned video lecture.
 TRIGGER;VALUE=DATE-TIME:20261102T140000Z
 END:VALARM
 SEQUENCE:1
@@ -188,24 +188,25 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ef14a649-1bf5-51e2-8a4c-4b168f0e51ee@course-calendar
 DTSTAMP:20261013T160000Z
-SUMMARY:PSY102 — Reading: Chapter 7 — Language\, Thinking\, & Reasoning
-DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapter 
- 7. Suggested preparation: summarize key concepts and make practice questio
- ns. Reading is assigned to this course week\; the calendar uses its Tuesda
- y class date\, not a separate submission deadline. Source: PSY102 021 Cour
- se Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\
- ; document heading says 011. Confirm your section.  Read the chapter befor
- e class. Optional chapter Connections puzzles are on D2L. Chapter 1 also h
- as an assigned video lecture.
+SUMMARY:PSY102 — Reading: Chapter 7 — Language\, Thinking\, & Reasoni
+ ng
+DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapte
+ r 7. Suggested preparation: summarize key concepts and make practice que
+ stions. Reading is assigned to this course week\; the calendar uses its 
+ Tuesday class date\, not a separate submission deadline. Source: PSY102 
+ 021 Course Outline F26_Plesa.docx\, Topics and Course Schedule. Filename
+  says 021\; document heading says 011. Confirm your section.  Read the c
+ hapter before class. Optional chapter Connections puzzles are on D2L. Ch
+ apter 1 also has an assigned video lecture.
 CATEGORIES:READING
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — Reading: Chapter 7 — Language\, Thinking\, & Reaso
- ning Read the chapter before class. Optional chapter Connections puzzles a
- re on D2L. Chapter 1 also has an assigned video lecture.
+DESCRIPTION:PSY102 — Reading: Chapter 7 — Language\, Thinking\, & Rea
+ soning Read the chapter before class. Optional chapter Connections puzzl
+ es are on D2L. Chapter 1 also has an assigned video lecture.
 TRIGGER;VALUE=DATE-TIME:20261116T140000Z
 END:VALARM
 SEQUENCE:1
@@ -215,23 +216,23 @@ BEGIN:VEVENT
 UID:4c7dd95f-3597-5428-9edf-83497ea210dd@course-calendar
 DTSTAMP:20261013T160000Z
 SUMMARY:PSY102 — Reading: Chapter 8 — Memory
-DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapter 
- 8. Suggested preparation: summarize key concepts and make practice questio
- ns. Reading is assigned to this course week\; the calendar uses its Tuesda
- y class date\, not a separate submission deadline. Source: PSY102 021 Cour
- se Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\
- ; document heading says 011. Confirm your section.  Read the chapter befor
- e class. Optional chapter Connections puzzles are on D2L. Chapter 1 also h
- as an assigned video lecture.
+DESCRIPTION:Read OpenStax Psychology 2e (Spielman et al.\, 2023)\, Chapte
+ r 8. Suggested preparation: summarize key concepts and make practice que
+ stions. Reading is assigned to this course week\; the calendar uses its 
+ Tuesday class date\, not a separate submission deadline. Source: PSY102 
+ 021 Course Outline F26_Plesa.docx\, Topics and Course Schedule. Filename
+  says 021\; document heading says 011. Confirm your section.  Read the c
+ hapter before class. Optional chapter Connections puzzles are on D2L. Ch
+ apter 1 also has an assigned video lecture.
 CATEGORIES:READING
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — Reading: Chapter 8 — Memory Read the chapter befor
- e class. Optional chapter Connections puzzles are on D2L. Chapter 1 also h
- as an assigned video lecture.
+DESCRIPTION:PSY102 — Reading: Chapter 8 — Memory Read the chapter bef
+ ore class. Optional chapter Connections puzzles are on D2L. Chapter 1 al
+ so has an assigned video lecture.
 TRIGGER;VALUE=DATE-TIME:20261123T140000Z
 END:VALARM
 SEQUENCE:1
@@ -241,51 +242,54 @@ BEGIN:VEVENT
 UID:ca465f90-dda6-59b2-9e15-15e96470731d@course-calendar
 DTSTAMP:20261013T160000Z
 SUMMARY:PSY102 — Exam 1 (confirm section/timing)
-DESCRIPTION:In-class Exam 1\; 60 minutes\, no lecture afterward. Chapters 1
- \, 2\, and 3. Multiple-choice and short-answer questions. Date inferred fr
- om Tuesday class within the outline week\; 3pm start inferred from class t
- ime. Confirm section and timing on D2L. Exam 2 is not cumulative. Weight c
- onflict: assessment table says 29% per exam\; prose says 25%. Source: PSY1
- 02 021 Course Outline F26_Plesa.docx\, Topics and Course Schedule. Filenam
- e says 021\; document heading says 011. Confirm your section.  September 2
- 2 announcement confirms September 29 at 3:10pm\, DSQ03\, 60 minutes\; supe
- rsedes earlier inferred 3pm start. [See D2L] September 28 Exam FAQ: 40 mul
- tiple-choice and 5 fill-in-the-blank short-answer questions\, no word bank
-  or diagrams\; read full assigned textbook chapters. Short-answer weightin
- g conflicts between announcements (17% versus 20%)\; confirm with instruct
- or.
+DESCRIPTION:In-class Exam 1\; 60 minutes\, no lecture afterward. Chapters
+  1\, 2\, and 3. Multiple-choice and short-answer questions. Date inferre
+ d from Tuesday class within the outline week\; 3pm start inferred from c
+ lass time. Confirm section and timing on D2L. Exam 2 is not cumulative. 
+ Weight conflict: assessment table says 29% per exam\; prose says 25%. So
+ urce: PSY102 021 Course Outline F26_Plesa.docx\, Topics and Course Sched
+ ule. Filename says 021\; document heading says 011. Confirm your section
+ .  September 22 announcement confirms September 29 at 3:10pm\, DSQ03\, 6
+ 0 minutes\; supersedes earlier inferred 3pm start. [See D2L] September 2
+ 8 Exam FAQ: 40 multiple-choice and 5 fill-in-the-blank short-answer ques
+ tions\, no word bank or diagrams\; read full assigned textbook chapters.
+  Short-answer weighting conflicts between announcements (17% versus 20%)
+ \; confirm with instructor.
 CATEGORIES:OFFICIAL
 TRANSP:TRANSPARENT
 DTSTART:20260929T191000Z
 DTEND:20260929T201000Z
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — Exam 1 (confirm section/timing) September 22 announc
- ement confirms September 29 at 3:10pm\, DSQ03\, 60 minutes\; supersedes ea
- rlier inferred 3pm start. [See D2L] September 28 Exam FAQ: 40 multiple-cho
- ice and 5 fill-in-the-blank short-answer questions\, no word bank or diagr
- ams\; read full assigned textbook chapters. Short-answer weighting conflic
- ts between announcements (17% versus 20%)\; confirm with instructor.
+DESCRIPTION:PSY102 — Exam 1 (confirm section/timing) September 22 annou
+ ncement confirms September 29 at 3:10pm\, DSQ03\, 60 minutes\; supersede
+ s earlier inferred 3pm start. [See D2L] September 28 Exam FAQ: 40 multip
+ le-choice and 5 fill-in-the-blank short-answer questions\, no word bank 
+ or diagrams\; read full assigned textbook chapters. Short-answer weighti
+ ng conflicts between announcements (17% versus 20%)\; confirm with instr
+ uctor.
 TRIGGER;VALUE=DATE-TIME:20260922T190000Z
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — Exam 1 (confirm section/timing) September 22 announc
- ement confirms September 29 at 3:10pm\, DSQ03\, 60 minutes\; supersedes ea
- rlier inferred 3pm start. [See D2L] September 28 Exam FAQ: 40 multiple-cho
- ice and 5 fill-in-the-blank short-answer questions\, no word bank or diagr
- ams\; read full assigned textbook chapters. Short-answer weighting conflic
- ts between announcements (17% versus 20%)\; confirm with instructor.
+DESCRIPTION:PSY102 — Exam 1 (confirm section/timing) September 22 annou
+ ncement confirms September 29 at 3:10pm\, DSQ03\, 60 minutes\; supersede
+ s earlier inferred 3pm start. [See D2L] September 28 Exam FAQ: 40 multip
+ le-choice and 5 fill-in-the-blank short-answer questions\, no word bank 
+ or diagrams\; read full assigned textbook chapters. Short-answer weighti
+ ng conflicts between announcements (17% versus 20%)\; confirm with instr
+ uctor.
 TRIGGER;VALUE=DATE-TIME:20260926T190000Z
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — Exam 1 (confirm section/timing) September 22 announc
- ement confirms September 29 at 3:10pm\, DSQ03\, 60 minutes\; supersedes ea
- rlier inferred 3pm start. [See D2L] September 28 Exam FAQ: 40 multiple-cho
- ice and 5 fill-in-the-blank short-answer questions\, no word bank or diagr
- ams\; read full assigned textbook chapters. Short-answer weighting conflic
- ts between announcements (17% versus 20%)\; confirm with instructor.
+DESCRIPTION:PSY102 — Exam 1 (confirm section/timing) September 22 annou
+ ncement confirms September 29 at 3:10pm\, DSQ03\, 60 minutes\; supersede
+ s earlier inferred 3pm start. [See D2L] September 28 Exam FAQ: 40 multip
+ le-choice and 5 fill-in-the-blank short-answer questions\, no word bank 
+ or diagrams\; read full assigned textbook chapters. Short-answer weighti
+ ng conflicts between announcements (17% versus 20%)\; confirm with instr
+ uctor.
 TRIGGER;VALUE=DATE-TIME:20260928T190000Z
 END:VALARM
 SEQUENCE:1
@@ -295,25 +299,26 @@ BEGIN:VEVENT
 UID:39fcb5b7-f756-5307-9bbc-9d29b560d0c3@course-calendar
 DTSTAMP:20261013T160000Z
 SUMMARY:PSY102 — Suggested study: Exam 1
-DESCRIPTION:Review Chapters 1\, 2\, and 3\, lecture notes\, key terms and p
- ractice multiple-choice and short-answer responses. Suggested study date\,
-  not an official deadline. Source: PSY102 021 Course Outline F26_Plesa.doc
- x\, Topics and Course Schedule. Filename says 021\; document heading says 
- 011. Confirm your section.  September 28 Exam FAQ: 40 multiple-choice and 
- 5 fill-in-the-blank short-answer questions\, no word bank or diagrams\; re
- ad full assigned textbook chapters. Short-answer weighting conflicts betwe
- en announcements (17% versus 20%)\; confirm with instructor.
+DESCRIPTION:Review Chapters 1\, 2\, and 3\, lecture notes\, key terms and
+  practice multiple-choice and short-answer responses. Suggested study da
+ te\, not an official deadline. Source: PSY102 021 Course Outline F26_Ple
+ sa.docx\, Topics and Course Schedule. Filename says 021\; document headi
+ ng says 011. Confirm your section.  September 28 Exam FAQ: 40 multiple-c
+ hoice and 5 fill-in-the-blank short-answer questions\, no word bank or d
+ iagrams\; read full assigned textbook chapters. Short-answer weighting c
+ onflicts between announcements (17% versus 20%)\; confirm with instructo
+ r.
 CATEGORIES:STUDY
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — Suggested study: Exam 1 September 28 Exam FAQ: 40 mu
- ltiple-choice and 5 fill-in-the-blank short-answer questions\, no word ban
- k or diagrams\; read full assigned textbook chapters. Short-answer weighti
- ng conflicts between announcements (17% versus 20%)\; confirm with instruc
- tor.
+DESCRIPTION:PSY102 — Suggested study: Exam 1 September 28 Exam FAQ: 40 
+ multiple-choice and 5 fill-in-the-blank short-answer questions\, no word
+  bank or diagrams\; read full assigned textbook chapters. Short-answer w
+ eighting conflicts between announcements (17% versus 20%)\; confirm with
+  instructor.
 TRIGGER;VALUE=DATE-TIME:20260921T130000Z
 END:VALARM
 SEQUENCE:1
@@ -321,76 +326,76 @@ LAST-MODIFIED:20261014T060000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:d7f323d3-7b4d-521b-9ed6-cef60d24d71f@course-calendar
-DTSTAMP:20261013T160000Z
-SUMMARY:PSY102 — Exam 2 (confirm section/timing)
-DESCRIPTION:In-class Exam 2\; 60 minutes\, no lecture afterward. Chapters 4
- \, 5\, and 6. Multiple-choice and short-answer questions. Date inferred fr
- om Tuesday class within the outline week\; 3pm start inferred from class t
- ime. Confirm section and timing on D2L. Exam 2 is not cumulative. Weight c
- onflict: assessment table says 29% per exam\; prose says 25%. Source: PSY1
- 02 021 Course Outline F26_Plesa.docx\, Topics and Course Schedule. Filenam
- e says 021\; document heading says 011. Confirm your section.  September 2
- 8 Exam FAQ: 40 multiple-choice and 5 fill-in-the-blank short-answer questi
- ons\, no word bank or diagrams\; read full assigned textbook chapters. Sho
- rt-answer weighting conflicts between announcements (17% versus 20%)\; con
- firm with instructor.
+DTSTAMP:20261111T020000Z
+SUMMARY:PSY102 — Exam 2 — Chapters 4–6 — DSQ03
+DESCRIPTION:Confirmed by November 4 D2L announcement: November 10 at 3:10
+  p.m. in DSQ03\; 60 minutes\, no lecture afterward. Chapters 4–6. Form
+ at: 40 multiple-choice questions (80%) and 5 fill-in-the-blank short ans
+ wers (20%). Worth 29% of course grade per current outline. November 10 a
+ nnouncement: conditional makeup November 17\, 3–5 p.m.\, SBB239\; requ
+ ires verified ACR and confirmation with Lucas. Makeup is not a required 
+ appointment for everyone.
 CATEGORIES:OFFICIAL
 TRANSP:TRANSPARENT
-DTSTART:20261110T200000Z
-DTEND:20261110T210000Z
+DTSTART:20261110T201000Z
+DTEND:20261110T211000Z
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — Exam 2 (confirm section/timing) September 28 Exam FA
- Q: 40 multiple-choice and 5 fill-in-the-blank short-answer questions\, no 
- word bank or diagrams\; read full assigned textbook chapters. Short-answer
-  weighting conflicts between announcements (17% versus 20%)\; confirm with
-  instructor.
-TRIGGER;VALUE=DATE-TIME:20261103T200000Z
+DESCRIPTION:PSY102 — Exam 2 (confirm section/timing) September 28 Exam 
+ FAQ: 40 multiple-choice and 5 fill-in-the-blank short-answer questions\,
+  no word bank or diagrams\; read full assigned textbook chapters. Short-
+ answer weighting conflicts between announcements (17% versus 20%)\; conf
+ irm with instructor.
+TRIGGER;VALUE=DATE-TIME:20261103T201000Z
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — Exam 2 (confirm section/timing) September 28 Exam FA
- Q: 40 multiple-choice and 5 fill-in-the-blank short-answer questions\, no 
- word bank or diagrams\; read full assigned textbook chapters. Short-answer
-  weighting conflicts between announcements (17% versus 20%)\; confirm with
-  instructor.
-TRIGGER;VALUE=DATE-TIME:20261107T200000Z
+DESCRIPTION:PSY102 — Exam 2 (confirm section/timing) September 28 Exam 
+ FAQ: 40 multiple-choice and 5 fill-in-the-blank short-answer questions\,
+  no word bank or diagrams\; read full assigned textbook chapters. Short-
+ answer weighting conflicts between announcements (17% versus 20%)\; conf
+ irm with instructor.
+TRIGGER;VALUE=DATE-TIME:20261107T201000Z
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — Exam 2 (confirm section/timing) September 28 Exam FA
- Q: 40 multiple-choice and 5 fill-in-the-blank short-answer questions\, no 
- word bank or diagrams\; read full assigned textbook chapters. Short-answer
-  weighting conflicts between announcements (17% versus 20%)\; confirm with
-  instructor.
-TRIGGER;VALUE=DATE-TIME:20261109T200000Z
+DESCRIPTION:PSY102 — Exam 2 (confirm section/timing) September 28 Exam 
+ FAQ: 40 multiple-choice and 5 fill-in-the-blank short-answer questions\,
+  no word bank or diagrams\; read full assigned textbook chapters. Short-
+ answer weighting conflicts between announcements (17% versus 20%)\; conf
+ irm with instructor.
+TRIGGER;VALUE=DATE-TIME:20261109T201000Z
 END:VALARM
-SEQUENCE:1
-LAST-MODIFIED:20261014T060000Z
+SEQUENCE:2
+LAST-MODIFIED:20261111T020000Z
+LOCATION:DSQ03
+URL:https://courses.torontomu.ca/d2l/le/news/1210365/1182111/view?ou=1210
+ 365
 END:VEVENT
 BEGIN:VEVENT
 UID:d0e40597-5300-5e19-9c59-ce43fc06ec1b@course-calendar
 DTSTAMP:20261013T160000Z
 SUMMARY:PSY102 — Suggested study: Exam 2
-DESCRIPTION:Review Chapters 4\, 5\, and 6\, lecture notes\, key terms and p
- ractice multiple-choice and short-answer responses. Suggested study date\,
-  not an official deadline. Source: PSY102 021 Course Outline F26_Plesa.doc
- x\, Topics and Course Schedule. Filename says 021\; document heading says 
- 011. Confirm your section.  September 28 Exam FAQ: 40 multiple-choice and 
- 5 fill-in-the-blank short-answer questions\, no word bank or diagrams\; re
- ad full assigned textbook chapters. Short-answer weighting conflicts betwe
- en announcements (17% versus 20%)\; confirm with instructor.
+DESCRIPTION:Review Chapters 4\, 5\, and 6\, lecture notes\, key terms and
+  practice multiple-choice and short-answer responses. Suggested study da
+ te\, not an official deadline. Source: PSY102 021 Course Outline F26_Ple
+ sa.docx\, Topics and Course Schedule. Filename says 021\; document headi
+ ng says 011. Confirm your section.  September 28 Exam FAQ: 40 multiple-c
+ hoice and 5 fill-in-the-blank short-answer questions\, no word bank or d
+ iagrams\; read full assigned textbook chapters. Short-answer weighting c
+ onflicts between announcements (17% versus 20%)\; confirm with instructo
+ r.
 CATEGORIES:STUDY
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — Suggested study: Exam 2 September 28 Exam FAQ: 40 mu
- ltiple-choice and 5 fill-in-the-blank short-answer questions\, no word ban
- k or diagrams\; read full assigned textbook chapters. Short-answer weighti
- ng conflicts between announcements (17% versus 20%)\; confirm with instruc
- tor.
+DESCRIPTION:PSY102 — Suggested study: Exam 2 September 28 Exam FAQ: 40 
+ multiple-choice and 5 fill-in-the-blank short-answer questions\, no word
+  bank or diagrams\; read full assigned textbook chapters. Short-answer w
+ eighting conflicts between announcements (17% versus 20%)\; confirm with
+  instructor.
 TRIGGER;VALUE=DATE-TIME:20261102T140000Z
 END:VALARM
 SEQUENCE:1
@@ -400,44 +405,44 @@ BEGIN:VEVENT
 UID:9b14e4a5-b85d-55df-8be9-533470a51771@course-calendar
 DTSTAMP:20261013T160000Z
 SUMMARY:PSY102 — DUE: Written Assignment 1
-DESCRIPTION:Written Assignment 1\, worth 5%. Evaluate instructor-provided m
- aterials for quality of evidence. Obtain full prompt\, requirements and su
- bmission instructions from D2L. Due 11:59pm. Late penalty stated: 5% per d
- ay unless extension granted in advance. Source: PSY102 021 Course Outline 
- F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\; document 
- heading says 011. Confirm your section.  D2L checked October 14: assignmen
- t due dates unchanged. October 9 announcement: extensions require verified
-  ACR or appropriate accommodations\; maximum 7 days\, then -5% per day\; n
- o submissions accepted after two weeks from original due date. This is not
-  an automatic extension. [See D2L]
+DESCRIPTION:Written Assignment 1\, worth 5%. Evaluate instructor-provided
+  materials for quality of evidence. Obtain full prompt\, requirements an
+ d submission instructions from D2L. Due 11:59pm. Late penalty stated: 5%
+  per day unless extension granted in advance. Source: PSY102 021 Course 
+ Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\;
+  document heading says 011. Confirm your section.  D2L checked October 1
+ 4: assignment due dates unchanged. October 9 announcement: extensions re
+ quire verified ACR or appropriate accommodations\; maximum 7 days\, then
+  -5% per day\; no submissions accepted after two weeks from original due
+  date. This is not an automatic extension. [See D2L]
 CATEGORIES:OFFICIAL
 TRANSP:TRANSPARENT
 DTSTART:20261010T035900Z
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — DUE: Written Assignment 1 D2L checked October 14: as
- signment due dates unchanged. October 9 announcement: extensions require v
- erified ACR or appropriate accommodations\; maximum 7 days\, then -5% per 
- day\; no submissions accepted after two weeks from original due date. This
-  is not an automatic extension. [See D2L]
+DESCRIPTION:PSY102 — DUE: Written Assignment 1 D2L checked October 14: 
+ assignment due dates unchanged. October 9 announcement: extensions requi
+ re verified ACR or appropriate accommodations\; maximum 7 days\, then -5
+ % per day\; no submissions accepted after two weeks from original due da
+ te. This is not an automatic extension. [See D2L]
 TRIGGER;VALUE=DATE-TIME:20261003T035900Z
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — DUE: Written Assignment 1 D2L checked October 14: as
- signment due dates unchanged. October 9 announcement: extensions require v
- erified ACR or appropriate accommodations\; maximum 7 days\, then -5% per 
- day\; no submissions accepted after two weeks from original due date. This
-  is not an automatic extension. [See D2L]
+DESCRIPTION:PSY102 — DUE: Written Assignment 1 D2L checked October 14: 
+ assignment due dates unchanged. October 9 announcement: extensions requi
+ re verified ACR or appropriate accommodations\; maximum 7 days\, then -5
+ % per day\; no submissions accepted after two weeks from original due da
+ te. This is not an automatic extension. [See D2L]
 TRIGGER;VALUE=DATE-TIME:20261007T035900Z
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — DUE: Written Assignment 1 D2L checked October 14: as
- signment due dates unchanged. October 9 announcement: extensions require v
- erified ACR or appropriate accommodations\; maximum 7 days\, then -5% per 
- day\; no submissions accepted after two weeks from original due date. This
-  is not an automatic extension. [See D2L]
+DESCRIPTION:PSY102 — DUE: Written Assignment 1 D2L checked October 14: 
+ assignment due dates unchanged. October 9 announcement: extensions requi
+ re verified ACR or appropriate accommodations\; maximum 7 days\, then -5
+ % per day\; no submissions accepted after two weeks from original due da
+ te. This is not an automatic extension. [See D2L]
 TRIGGER;VALUE=DATE-TIME:20261009T035900Z
 END:VALARM
 SEQUENCE:1
@@ -447,26 +452,26 @@ BEGIN:VEVENT
 UID:d0ae7cc6-451a-5a3d-8644-c9e1833e1e9a@course-calendar
 DTSTAMP:20261013T160000Z
 SUMMARY:PSY102 — Suggested preparation: Assignment 1
-DESCRIPTION:Read the D2L prompt and supplied materials\; plan your evidence
-  evaluation\, draft independently\, and leave time to check requirements. 
- Suggested preparation date\, not an official deadline. Source: PSY102 021 
- Course Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 
- 021\; document heading says 011. Confirm your section.  D2L checked Octobe
- r 14: assignment due dates unchanged. October 9 announcement: extensions r
- equire verified ACR or appropriate accommodations\; maximum 7 days\, then 
- -5% per day\; no submissions accepted after two weeks from original due da
- te. This is not an automatic extension. [See D2L]
+DESCRIPTION:Read the D2L prompt and supplied materials\; plan your eviden
+ ce evaluation\, draft independently\, and leave time to check requiremen
+ ts. Suggested preparation date\, not an official deadline. Source: PSY10
+ 2 021 Course Outline F26_Plesa.docx\, Topics and Course Schedule. Filena
+ me says 021\; document heading says 011. Confirm your section.  D2L chec
+ ked October 14: assignment due dates unchanged. October 9 announcement: 
+ extensions require verified ACR or appropriate accommodations\; maximum 
+ 7 days\, then -5% per day\; no submissions accepted after two weeks from
+  original due date. This is not an automatic extension. [See D2L]
 CATEGORIES:STUDY
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — Suggested preparation: Assignment 1 D2L checked Octo
- ber 14: assignment due dates unchanged. October 9 announcement: extensions
-  require verified ACR or appropriate accommodations\; maximum 7 days\, the
- n -5% per day\; no submissions accepted after two weeks from original due 
- date. This is not an automatic extension. [See D2L]
+DESCRIPTION:PSY102 — Suggested preparation: Assignment 1 D2L checked Oc
+ tober 14: assignment due dates unchanged. October 9 announcement: extens
+ ions require verified ACR or appropriate accommodations\; maximum 7 days
+ \, then -5% per day\; no submissions accepted after two weeks from origi
+ nal due date. This is not an automatic extension. [See D2L]
 TRIGGER;VALUE=DATE-TIME:20261001T130000Z
 END:VALARM
 SEQUENCE:1
@@ -474,88 +479,89 @@ LAST-MODIFIED:20261014T060000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:e7e82ca8-9dc7-5257-8129-d18d9a1589a5@course-calendar
-DTSTAMP:20261013T160000Z
+DTSTAMP:20261111T020000Z
 SUMMARY:PSY102 — DUE: Written Assignment 2
-DESCRIPTION:Written Assignment 2\, worth 5%. Evaluate instructor-provided m
- aterials for quality of evidence. Obtain full prompt\, requirements and su
- bmission instructions from D2L. Due 11:59pm. Late penalty stated: 5% per d
- ay unless extension granted in advance. Source: PSY102 021 Course Outline 
- F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\; document 
- heading says 011. Confirm your section.  D2L checked October 14: assignmen
- t due dates unchanged. October 9 announcement: extensions require verified
-  ACR or appropriate accommodations\; maximum 7 days\, then -5% per day\; n
- o submissions accepted after two weeks from original due date. This is not
-  an automatic extension. [See D2L]
+DESCRIPTION:Due Friday November 20 at 11:59 p.m. Toronto time\, worth 5%\
+ ; confirmed in live D2L Assignments November 10. Read Assignment 2 Instr
+ uctions and use Assignment 2 Answer Sheet. Re-read methods and supplied 
+ conclusions for the five test-yourself studies. For correlations\, consi
+ der reverse causality and third-variable explanations\; for experiments\
+ , consider confounding variables. Complete the answer sheet independentl
+ y and submit it to the D2L Assignment 2 dropbox. Extension requests go t
+ o your assigned TA\, require verified ACR or applicable accommodations\,
+  and allow at most 7 days\; regular late penalty is 5% per day thereafte
+ r\, with no submissions accepted after two weeks from original due date.
+  Extensions are not automatic. Source: live Assignments\, Assignment 2 i
+ nstructions\, October 9 announcement.
 CATEGORIES:OFFICIAL
 TRANSP:TRANSPARENT
 DTSTART:20261121T045900Z
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — DUE: Written Assignment 2 D2L checked October 14: as
- signment due dates unchanged. October 9 announcement: extensions require v
- erified ACR or appropriate accommodations\; maximum 7 days\, then -5% per 
- day\; no submissions accepted after two weeks from original due date. This
-  is not an automatic extension. [See D2L]
+DESCRIPTION:PSY102 — DUE: Written Assignment 2 D2L checked October 14: 
+ assignment due dates unchanged. October 9 announcement: extensions requi
+ re verified ACR or appropriate accommodations\; maximum 7 days\, then -5
+ % per day\; no submissions accepted after two weeks from original due da
+ te. This is not an automatic extension. [See D2L]
 TRIGGER;VALUE=DATE-TIME:20261114T045900Z
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — DUE: Written Assignment 2 D2L checked October 14: as
- signment due dates unchanged. October 9 announcement: extensions require v
- erified ACR or appropriate accommodations\; maximum 7 days\, then -5% per 
- day\; no submissions accepted after two weeks from original due date. This
-  is not an automatic extension. [See D2L]
+DESCRIPTION:PSY102 — DUE: Written Assignment 2 D2L checked October 14: 
+ assignment due dates unchanged. October 9 announcement: extensions requi
+ re verified ACR or appropriate accommodations\; maximum 7 days\, then -5
+ % per day\; no submissions accepted after two weeks from original due da
+ te. This is not an automatic extension. [See D2L]
 TRIGGER;VALUE=DATE-TIME:20261118T045900Z
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — DUE: Written Assignment 2 D2L checked October 14: as
- signment due dates unchanged. October 9 announcement: extensions require v
- erified ACR or appropriate accommodations\; maximum 7 days\, then -5% per 
- day\; no submissions accepted after two weeks from original due date. This
-  is not an automatic extension. [See D2L]
+DESCRIPTION:PSY102 — DUE: Written Assignment 2 D2L checked October 14: 
+ assignment due dates unchanged. October 9 announcement: extensions requi
+ re verified ACR or appropriate accommodations\; maximum 7 days\, then -5
+ % per day\; no submissions accepted after two weeks from original due da
+ te. This is not an automatic extension. [See D2L]
 TRIGGER;VALUE=DATE-TIME:20261120T045900Z
 END:VALARM
-SEQUENCE:1
-LAST-MODIFIED:20261014T060000Z
+SEQUENCE:2
+LAST-MODIFIED:20261111T020000Z
+URL:https://courses.torontomu.ca/d2l/lms/dropbox/user/folder_submit_files
+ .d2l?db=478520&grpid=0&isprv=0&bp=0&ou=1210365
 END:VEVENT
 BEGIN:VEVENT
 UID:c2ab25eb-ff0b-512f-be9c-74acaad2f8b1@course-calendar
-DTSTAMP:20261013T160000Z
+DTSTAMP:20261111T020000Z
 SUMMARY:PSY102 — Suggested preparation: Assignment 2
-DESCRIPTION:Read the D2L prompt and supplied materials\; plan your evidence
-  evaluation\, draft independently\, and leave time to check requirements. 
- Suggested preparation date\, not an official deadline. Source: PSY102 021 
- Course Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 
- 021\; document heading says 011. Confirm your section.  D2L checked Octobe
- r 14: assignment due dates unchanged. October 9 announcement: extensions r
- equire verified ACR or appropriate accommodations\; maximum 7 days\, then 
- -5% per day\; no submissions accepted after two weeks from original due da
- te. This is not an automatic extension. [See D2L]
+DESCRIPTION:Suggested preparation date\, not an official deadline. Read A
+ ssignment 2 Instructions\, download the answer sheet\, and independently
+  analyze the five test-yourself studies: causality/third variables for c
+ orrelations and confounds for experiments. Leave time to check and submi
+ t the completed sheet in D2L before November 20 at 11:59 p.m. Source: D2
+ L Assignment 2 instructions and live due date\, checked November 10.
 CATEGORIES:STUDY
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:PSY102 — Suggested preparation: Assignment 2 D2L checked Octo
- ber 14: assignment due dates unchanged. October 9 announcement: extensions
-  require verified ACR or appropriate accommodations\; maximum 7 days\, the
- n -5% per day\; no submissions accepted after two weeks from original due 
- date. This is not an automatic extension. [See D2L]
+DESCRIPTION:PSY102 — Suggested preparation: Assignment 2 D2L checked Oc
+ tober 14: assignment due dates unchanged. October 9 announcement: extens
+ ions require verified ACR or appropriate accommodations\; maximum 7 days
+ \, then -5% per day\; no submissions accepted after two weeks from origi
+ nal due date. This is not an automatic extension. [See D2L]
 TRIGGER;VALUE=DATE-TIME:20261112T140000Z
 END:VALARM
-SEQUENCE:1
-LAST-MODIFIED:20261014T060000Z
+SEQUENCE:2
+LAST-MODIFIED:20261111T020000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:9e6f2ee8-7bc5-5046-9a60-7e7750b604e7@course-calendar
 DTSTAMP:20261013T160000Z
 SUMMARY:PSY102 — In-class review (confirm section)
-DESCRIPTION:Review session: 90 minutes\, no lecture afterward. Tuesday/date
-  and 3pm start inferred from class schedule. Source: PSY102 021 Course Out
- line F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\; docu
- ment heading says 011. Confirm your section. 
+DESCRIPTION:Review session: 90 minutes\, no lecture afterward. Tuesday/da
+ te and 3pm start inferred from class schedule. Source: PSY102 021 Course
+  Outline F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\
+ ; document heading says 011. Confirm your section. 
 CATEGORIES:CLASS
 TRANSP:TRANSPARENT
 DTSTART:20261201T200000Z
@@ -569,25 +575,25 @@ END:VEVENT
 BEGIN:VEVENT
 UID:dcadde96-36a8-579c-b1fe-d8e76a3a1ab5@course-calendar
 DTSTAMP:20261013T160000Z
-SUMMARY:SSH105 — Reading: Chapter 1 — Introduction\; concept of knowled
- ge
-DESCRIPTION:Read Richard Feldman\, Reason and Argument\, second edition\, C
- hapter(s) 1\, pp. 11–34. Free electronic textbook on D2L. Assigned lectu
- re date\; no separate reading submission deadline. Practice identifying an
- d evaluating arguments. Source: SSH 105 Course Outline - Fall 2026.pdf\, p
- age 4 (schedule).  Print posted skeletal slides before lecture to support 
- handwritten notes. For lecture recordings\, use Zoom SSO with company doma
- in torontomu.
+SUMMARY:SSH105 — Reading: Chapter 1 — Introduction\; concept of knowl
+ edge
+DESCRIPTION:Read Richard Feldman\, Reason and Argument\, second edition\,
+  Chapter(s) 1\, pp. 11–34. Free electronic textbook on D2L. Assigned l
+ ecture date\; no separate reading submission deadline. Practice identify
+ ing and evaluating arguments. Source: SSH 105 Course Outline - Fall 2026
+ .pdf\, page 4 (schedule).  Print posted skeletal slides before lecture t
+ o support handwritten notes. For lecture recordings\, use Zoom SSO with 
+ company domain torontomu.
 CATEGORIES:READING
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SSH105 — Reading: Chapter 1 — Introduction\; concept of kno
- wledge Print posted skeletal slides before lecture to support handwritten 
- notes. For lecture recordings\, use Zoom SSO with company domain torontomu
- .
+DESCRIPTION:SSH105 — Reading: Chapter 1 — Introduction\; concept of k
+ nowledge Print posted skeletal slides before lecture to support handwrit
+ ten notes. For lecture recordings\, use Zoom SSO with company domain tor
+ ontomu.
 TRIGGER;VALUE=DATE-TIME:20260910T130000Z
 END:VALARM
 SEQUENCE:1
@@ -596,25 +602,25 @@ END:VEVENT
 BEGIN:VEVENT
 UID:ca891dcc-5907-53aa-8834-f21f35294cbf@course-calendar
 DTSTAMP:20261013T160000Z
-SUMMARY:SSH105 — Reading: Chapter 1 — Realism\, nihilism\, relativism a
- nd skepticism
-DESCRIPTION:Read Richard Feldman\, Reason and Argument\, second edition\, C
- hapter(s) 1\, pp. 11–34. Free electronic textbook on D2L. Assigned lectu
- re date\; no separate reading submission deadline. Practice identifying an
- d evaluating arguments. Source: SSH 105 Course Outline - Fall 2026.pdf\, p
- age 4 (schedule).  Print posted skeletal slides before lecture to support 
- handwritten notes. For lecture recordings\, use Zoom SSO with company doma
- in torontomu.
+SUMMARY:SSH105 — Reading: Chapter 1 — Realism\, nihilism\, relativism
+  and skepticism
+DESCRIPTION:Read Richard Feldman\, Reason and Argument\, second edition\,
+  Chapter(s) 1\, pp. 11–34. Free electronic textbook on D2L. Assigned l
+ ecture date\; no separate reading submission deadline. Practice identify
+ ing and evaluating arguments. Source: SSH 105 Course Outline - Fall 2026
+ .pdf\, page 4 (schedule).  Print posted skeletal slides before lecture t
+ o support handwritten notes. For lecture recordings\, use Zoom SSO with 
+ company domain torontomu.
 CATEGORIES:READING
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SSH105 — Reading: Chapter 1 — Realism\, nihilism\, relativi
- sm and skepticism Print posted skeletal slides before lecture to support h
- andwritten notes. For lecture recordings\, use Zoom SSO with company domai
- n torontomu.
+DESCRIPTION:SSH105 — Reading: Chapter 1 — Realism\, nihilism\, relati
+ vism and skepticism Print posted skeletal slides before lecture to suppo
+ rt handwritten notes. For lecture recordings\, use Zoom SSO with company
+  domain torontomu.
 TRIGGER;VALUE=DATE-TIME:20260917T130000Z
 END:VALARM
 SEQUENCE:1
@@ -623,25 +629,25 @@ END:VEVENT
 BEGIN:VEVENT
 UID:adcfd619-a9ff-5980-afbc-e743c4d1c2a2@course-calendar
 DTSTAMP:20261013T160000Z
-SUMMARY:SSH105 — Reading: Chapter 2 — Models of truth\; belief and just
- ification
-DESCRIPTION:Read Richard Feldman\, Reason and Argument\, second edition\, C
- hapter(s) 2\, pp. 36–67. Free electronic textbook on D2L. Assigned lectu
- re date\; no separate reading submission deadline. Practice identifying an
- d evaluating arguments. Source: SSH 105 Course Outline - Fall 2026.pdf\, p
- age 4 (schedule).  Print posted skeletal slides before lecture to support 
- handwritten notes. For lecture recordings\, use Zoom SSO with company doma
- in torontomu.
+SUMMARY:SSH105 — Reading: Chapter 2 — Models of truth\; belief and ju
+ stification
+DESCRIPTION:Read Richard Feldman\, Reason and Argument\, second edition\,
+  Chapter(s) 2\, pp. 36–67. Free electronic textbook on D2L. Assigned l
+ ecture date\; no separate reading submission deadline. Practice identify
+ ing and evaluating arguments. Source: SSH 105 Course Outline - Fall 2026
+ .pdf\, page 4 (schedule).  Print posted skeletal slides before lecture t
+ o support handwritten notes. For lecture recordings\, use Zoom SSO with 
+ company domain torontomu.
 CATEGORIES:READING
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SSH105 — Reading: Chapter 2 — Models of truth\; belief and 
- justification Print posted skeletal slides before lecture to support handw
- ritten notes. For lecture recordings\, use Zoom SSO with company domain to
- rontomu.
+DESCRIPTION:SSH105 — Reading: Chapter 2 — Models of truth\; belief an
+ d justification Print posted skeletal slides before lecture to support h
+ andwritten notes. For lecture recordings\, use Zoom SSO with company dom
+ ain torontomu.
 TRIGGER;VALUE=DATE-TIME:20260924T130000Z
 END:VALARM
 SEQUENCE:1
@@ -650,26 +656,26 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f51be25b-911d-50a8-886a-1761c5569220@course-calendar
 DTSTAMP:20261013T160000Z
-SUMMARY:SSH105 — Reading: Chapter 3 — Well-Formed Arguments\; video lec
- ture
-DESCRIPTION:Read Richard Feldman\, Reason and Argument\, second edition\, C
- hapter(s) 3\, pp. 69–94. Free electronic textbook on D2L. Assigned lectu
- re date\; no separate reading submission deadline. Practice identifying an
- d evaluating arguments. No in-person lecture October 2\; watch video lectu
- re instead. Source: SSH 105 Course Outline - Fall 2026.pdf\, page 4 (sched
- ule).  Print posted skeletal slides before lecture to support handwritten 
- notes. For lecture recordings\, use Zoom SSO with company domain torontomu
- .
+SUMMARY:SSH105 — Reading: Chapter 3 — Well-Formed Arguments\; video l
+ ecture
+DESCRIPTION:Read Richard Feldman\, Reason and Argument\, second edition\,
+  Chapter(s) 3\, pp. 69–94. Free electronic textbook on D2L. Assigned l
+ ecture date\; no separate reading submission deadline. Practice identify
+ ing and evaluating arguments. No in-person lecture October 2\; watch vid
+ eo lecture instead. Source: SSH 105 Course Outline - Fall 2026.pdf\, pag
+ e 4 (schedule).  Print posted skeletal slides before lecture to support 
+ handwritten notes. For lecture recordings\, use Zoom SSO with company do
+ main torontomu.
 CATEGORIES:READING
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SSH105 — Reading: Chapter 3 — Well-Formed Arguments\; video
-  lecture Print posted skeletal slides before lecture to support handwritte
- n notes. For lecture recordings\, use Zoom SSO with company domain toronto
- mu.
+DESCRIPTION:SSH105 — Reading: Chapter 3 — Well-Formed Arguments\; vid
+ eo lecture Print posted skeletal slides before lecture to support handwr
+ itten notes. For lecture recordings\, use Zoom SSO with company domain t
+ orontomu.
 TRIGGER;VALUE=DATE-TIME:20261001T130000Z
 END:VALARM
 SEQUENCE:1
@@ -678,27 +684,27 @@ END:VEVENT
 BEGIN:VEVENT
 UID:f886c744-903c-529c-b582-49e7a8902093@course-calendar
 DTSTAMP:20261013T160000Z
-SUMMARY:SSH105 — Reading: Chapter 3 and 4 — Rest of Chapter 3\; Strong 
- Arguments
-DESCRIPTION:Read Richard Feldman\, Reason and Argument\, second edition\, C
- hapter(s) 3 and 4\, pp. 94–110 and 112–131. Free electronic textbook o
- n D2L. Assigned lecture date\; no separate reading submission deadline. Pr
- actice identifying and evaluating arguments. Source: SSH 105 Course Outlin
- e - Fall 2026.pdf\, page 4 (schedule).  Print posted skeletal slides befor
- e lecture to support handwritten notes. For lecture recordings\, use Zoom 
- SSO with company domain torontomu. October 14 D2L announcement confirms Le
- cture 6 skeletal slides are posted. Print and bring them to the in-person 
- lecture on Friday October 23\; reformat if helpful.
+SUMMARY:SSH105 — Reading: Chapter 3 and 4 — Rest of Chapter 3\; Stron
+ g Arguments
+DESCRIPTION:Read Richard Feldman\, Reason and Argument\, second edition\,
+  Chapter(s) 3 and 4\, pp. 94–110 and 112–131. Free electronic textbo
+ ok on D2L. Assigned lecture date\; no separate reading submission deadli
+ ne. Practice identifying and evaluating arguments. Source: SSH 105 Cours
+ e Outline - Fall 2026.pdf\, page 4 (schedule).  Print posted skeletal sl
+ ides before lecture to support handwritten notes. For lecture recordings
+ \, use Zoom SSO with company domain torontomu. October 14 D2L announceme
+ nt confirms Lecture 6 skeletal slides are posted. Print and bring them t
+ o the in-person lecture on Friday October 23\; reformat if helpful.
 CATEGORIES:READING
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SSH105 — Reading: Chapter 3 and 4 — Rest of Chapter 3\; Str
- ong Arguments Print posted skeletal slides before lecture to support handw
- ritten notes. For lecture recordings\, use Zoom SSO with company domain to
- rontomu.
+DESCRIPTION:SSH105 — Reading: Chapter 3 and 4 — Rest of Chapter 3\; S
+ trong Arguments Print posted skeletal slides before lecture to support h
+ andwritten notes. For lecture recordings\, use Zoom SSO with company dom
+ ain torontomu.
 TRIGGER;VALUE=DATE-TIME:20261022T130000Z
 END:VALARM
 SEQUENCE:2
@@ -708,22 +714,22 @@ BEGIN:VEVENT
 UID:7a47465d-fd70-5ceb-b459-5889e517ccbb@course-calendar
 DTSTAMP:20261013T160000Z
 SUMMARY:SSH105 — Reading: Chapter 5 — Reconstructing Arguments
-DESCRIPTION:Read Richard Feldman\, Reason and Argument\, second edition\, C
- hapter(s) 5\, pp. 133–170. Free electronic textbook on D2L. Assigned lec
- ture date\; no separate reading submission deadline. Practice identifying 
- and evaluating arguments. Source: SSH 105 Course Outline - Fall 2026.pdf\,
-  page 4 (schedule).  Print posted skeletal slides before lecture to suppor
- t handwritten notes. For lecture recordings\, use Zoom SSO with company do
- main torontomu.
+DESCRIPTION:Read Richard Feldman\, Reason and Argument\, second edition\,
+  Chapter(s) 5\, pp. 133–170. Free electronic textbook on D2L. Assigned
+  lecture date\; no separate reading submission deadline. Practice identi
+ fying and evaluating arguments. Source: SSH 105 Course Outline - Fall 20
+ 26.pdf\, page 4 (schedule).  Print posted skeletal slides before lecture
+  to support handwritten notes. For lecture recordings\, use Zoom SSO wit
+ h company domain torontomu.
 CATEGORIES:READING
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SSH105 — Reading: Chapter 5 — Reconstructing Arguments Prin
- t posted skeletal slides before lecture to support handwritten notes. For 
- lecture recordings\, use Zoom SSO with company domain torontomu.
+DESCRIPTION:SSH105 — Reading: Chapter 5 — Reconstructing Arguments Pr
+ int posted skeletal slides before lecture to support handwritten notes. 
+ For lecture recordings\, use Zoom SSO with company domain torontomu.
 TRIGGER;VALUE=DATE-TIME:20261105T140000Z
 END:VALARM
 SEQUENCE:1
@@ -731,51 +737,50 @@ LAST-MODIFIED:20261014T060000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:e2a3fd68-13a2-5c8f-9dde-b2ce975835cc@course-calendar
-DTSTAMP:20261013T160000Z
-SUMMARY:SSH105 — Reading: Chapter 6 — Details of Argument Reconstructio
- n\; Subarguments
-DESCRIPTION:Read Richard Feldman\, Reason and Argument\, second edition\, C
- hapter(s) 6\, pp. 171–189. Free electronic textbook on D2L. Assigned lec
- ture date\; no separate reading submission deadline. Practice identifying 
- and evaluating arguments. Source: SSH 105 Course Outline - Fall 2026.pdf\,
-  page 4 (schedule).  Print posted skeletal slides before lecture to suppor
- t handwritten notes. For lecture recordings\, use Zoom SSO with company do
- main torontomu.
+DTSTAMP:20261111T020000Z
+SUMMARY:SSH105 — Reading: Chapter 6 — Details of Argument Reconstruct
+ ion\; Subarguments
+DESCRIPTION:Read Feldman\, Reason and Argument\, Chapter 6\, pp. 171–18
+ 9: Details of Argument Reconstruction and Subarguments before the Novemb
+ er 13 lecture. November 9 announcement: lecture will finish Lecture 8 sl
+ ides then turn to Lecture 9. Print both sets and bring them for handwrit
+ ten notes. Assigned reading/preparation date\, not a submission deadline
+ . Source: course outline and November 9 D2L announcement.
 CATEGORIES:READING
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SSH105 — Reading: Chapter 6 — Details of Argument Reconstru
- ction\; Subarguments Print posted skeletal slides before lecture to suppor
- t handwritten notes. For lecture recordings\, use Zoom SSO with company do
- main torontomu.
+DESCRIPTION:SSH105 — Reading: Chapter 6 — Details of Argument Reconst
+ ruction\; Subarguments Print posted skeletal slides before lecture to su
+ pport handwritten notes. For lecture recordings\, use Zoom SSO with comp
+ any domain torontomu.
 TRIGGER;VALUE=DATE-TIME:20261112T140000Z
 END:VALARM
-SEQUENCE:1
-LAST-MODIFIED:20261014T060000Z
+SEQUENCE:2
+LAST-MODIFIED:20261111T020000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ec249b34-a930-5ddf-b595-f852685a4420@course-calendar
 DTSTAMP:20261013T160000Z
 SUMMARY:SSH105 — Reading: Chapter 7 — Evaluating Arguments
-DESCRIPTION:Read Richard Feldman\, Reason and Argument\, second edition\, C
- hapter(s) 7\, pp. 191–242. Free electronic textbook on D2L. Assigned lec
- ture date\; no separate reading submission deadline. Practice identifying 
- and evaluating arguments. Source: SSH 105 Course Outline - Fall 2026.pdf\,
-  page 4 (schedule).  Print posted skeletal slides before lecture to suppor
- t handwritten notes. For lecture recordings\, use Zoom SSO with company do
- main torontomu.
+DESCRIPTION:Read Richard Feldman\, Reason and Argument\, second edition\,
+  Chapter(s) 7\, pp. 191–242. Free electronic textbook on D2L. Assigned
+  lecture date\; no separate reading submission deadline. Practice identi
+ fying and evaluating arguments. Source: SSH 105 Course Outline - Fall 20
+ 26.pdf\, page 4 (schedule).  Print posted skeletal slides before lecture
+  to support handwritten notes. For lecture recordings\, use Zoom SSO wit
+ h company domain torontomu.
 CATEGORIES:READING
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SSH105 — Reading: Chapter 7 — Evaluating Arguments Print po
- sted skeletal slides before lecture to support handwritten notes. For lect
- ure recordings\, use Zoom SSO with company domain torontomu.
+DESCRIPTION:SSH105 — Reading: Chapter 7 — Evaluating Arguments Print 
+ posted skeletal slides before lecture to support handwritten notes. For 
+ lecture recordings\, use Zoom SSO with company domain torontomu.
 TRIGGER;VALUE=DATE-TIME:20261126T140000Z
 END:VALARM
 SEQUENCE:1
@@ -785,10 +790,10 @@ BEGIN:VEVENT
 UID:12662be1-3f13-53a5-b39a-2b7decd75603@course-calendar
 DTSTAMP:20261013T160000Z
 SUMMARY:SSH105 — Topic: Evaluating Arguments — Fallacies
-DESCRIPTION:More on Evaluating Arguments: Fallacies. No chapter or page ran
- ge specified for this date. Review lecture materials and practice identify
- ing fallacies. Source: SSH 105 Course Outline - Fall 2026.pdf\, page 4 (sc
- hedule). 
+DESCRIPTION:More on Evaluating Arguments: Fallacies. No chapter or page r
+ ange specified for this date. Review lecture materials and practice iden
+ tifying fallacies. Source: SSH 105 Course Outline - Fall 2026.pdf\, page
+  4 (schedule). 
 CATEGORIES:READING
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261204
@@ -803,52 +808,53 @@ BEGIN:VEVENT
 UID:3de7cc46-dc4d-574a-89cd-8bc5c5d40857@course-calendar
 DTSTAMP:20261013T160000Z
 SUMMARY:SSH105 — Test 1 — 15% (time not supplied)
-DESCRIPTION:Official test date. Duration: 60 minutes. Start time and room a
- re not supplied in outline\; check your timetable/D2L. Test 1 takes place 
- during first hour of the two-hour lecture period. No new reading this week
- : catch up if necessary and watch the video lecture. Test coverage is not 
- explicitly stated\; confirm with instructor. Source: SSH 105 Course Outlin
- e - Fall 2026.pdf\, page 4 (schedule).  Bring a physical OneCard for tests
- /exams (September 17 announcement)\; phone version does not suffice. Octob
- er 8 reminder: Test 1 in TRS-1067 at start of lecture\; 60 minutes\, 15%\,
-  closed book. Coverage: textbook Chapters 1–2 and posted materials for L
- ectures 1–4. Memorize section number and TA name\; bring pen. No lecture
-  immediately afterward\; watch the replacement short video. [See D2L]
+DESCRIPTION:Official test date. Duration: 60 minutes. Start time and room
+  are not supplied in outline\; check your timetable/D2L. Test 1 takes pl
+ ace during first hour of the two-hour lecture period. No new reading thi
+ s week: catch up if necessary and watch the video lecture. Test coverage
+  is not explicitly stated\; confirm with instructor. Source: SSH 105 Cou
+ rse Outline - Fall 2026.pdf\, page 4 (schedule).  Bring a physical OneCa
+ rd for tests/exams (September 17 announcement)\; phone version does not 
+ suffice. October 8 reminder: Test 1 in TRS-1067 at start of lecture\; 60
+  minutes\, 15%\, closed book. Coverage: textbook Chapters 1–2 and post
+ ed materials for Lectures 1–4. Memorize section number and TA name\; b
+ ring pen. No lecture immediately afterward\; watch the replacement short
+  video. [See D2L]
 CATEGORIES:OFFICIAL
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SSH105 — Test 1 — 15% (time not supplied) Bring a physical 
- OneCard for tests/exams (September 17 announcement)\; phone version does n
- ot suffice. October 8 reminder: Test 1 in TRS-1067 at start of lecture\; 6
- 0 minutes\, 15%\, closed book. Coverage: textbook Chapters 1–2 and poste
- d materials for Lectures 1–4. Memorize section number and TA name\; brin
- g pen. No lecture immediately afterward\; watch the replacement short vide
- o. [See D2L]
+DESCRIPTION:SSH105 — Test 1 — 15% (time not supplied) Bring a physica
+ l OneCard for tests/exams (September 17 announcement)\; phone version do
+ es not suffice. October 8 reminder: Test 1 in TRS-1067 at start of lectu
+ re\; 60 minutes\, 15%\, closed book. Coverage: textbook Chapters 1–2 a
+ nd posted materials for Lectures 1–4. Memorize section number and TA n
+ ame\; bring pen. No lecture immediately afterward\; watch the replacemen
+ t short video. [See D2L]
 TRIGGER;VALUE=DATE-TIME:20261002T130000Z
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SSH105 — Test 1 — 15% (time not supplied) Bring a physical 
- OneCard for tests/exams (September 17 announcement)\; phone version does n
- ot suffice. October 8 reminder: Test 1 in TRS-1067 at start of lecture\; 6
- 0 minutes\, 15%\, closed book. Coverage: textbook Chapters 1–2 and poste
- d materials for Lectures 1–4. Memorize section number and TA name\; brin
- g pen. No lecture immediately afterward\; watch the replacement short vide
- o. [See D2L]
+DESCRIPTION:SSH105 — Test 1 — 15% (time not supplied) Bring a physica
+ l OneCard for tests/exams (September 17 announcement)\; phone version do
+ es not suffice. October 8 reminder: Test 1 in TRS-1067 at start of lectu
+ re\; 60 minutes\, 15%\, closed book. Coverage: textbook Chapters 1–2 a
+ nd posted materials for Lectures 1–4. Memorize section number and TA n
+ ame\; bring pen. No lecture immediately afterward\; watch the replacemen
+ t short video. [See D2L]
 TRIGGER;VALUE=DATE-TIME:20261006T130000Z
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SSH105 — Test 1 — 15% (time not supplied) Bring a physical 
- OneCard for tests/exams (September 17 announcement)\; phone version does n
- ot suffice. October 8 reminder: Test 1 in TRS-1067 at start of lecture\; 6
- 0 minutes\, 15%\, closed book. Coverage: textbook Chapters 1–2 and poste
- d materials for Lectures 1–4. Memorize section number and TA name\; brin
- g pen. No lecture immediately afterward\; watch the replacement short vide
- o. [See D2L]
+DESCRIPTION:SSH105 — Test 1 — 15% (time not supplied) Bring a physica
+ l OneCard for tests/exams (September 17 announcement)\; phone version do
+ es not suffice. October 8 reminder: Test 1 in TRS-1067 at start of lectu
+ re\; 60 minutes\, 15%\, closed book. Coverage: textbook Chapters 1–2 a
+ nd posted materials for Lectures 1–4. Memorize section number and TA n
+ ame\; bring pen. No lecture immediately afterward\; watch the replacemen
+ t short video. [See D2L]
 TRIGGER;VALUE=DATE-TIME:20261008T130000Z
 END:VALARM
 SEQUENCE:1
@@ -858,29 +864,29 @@ BEGIN:VEVENT
 UID:20fe9d5d-9b37-5583-9cb4-95368bd28c88@course-calendar
 DTSTAMP:20261013T160000Z
 SUMMARY:SSH105 — Suggested study: Test 1
-DESCRIPTION:Review assigned readings\, lecture/video notes and tutorial exe
- rcises to date\; practise argument problems. Confirm test coverage on D2L\
- ; the outline does not state it. Suggested study date\, not a deadline. So
- urce: SSH 105 Course Outline - Fall 2026.pdf\, page 4 (schedule).  Bring a
-  physical OneCard for tests/exams (September 17 announcement)\; phone vers
- ion does not suffice. October 8 reminder: Test 1 in TRS-1067 at start of l
- ecture\; 60 minutes\, 15%\, closed book. Coverage: textbook Chapters 1–2
-  and posted materials for Lectures 1–4. Memorize section number and TA n
- ame\; bring pen. No lecture immediately afterward\; watch the replacement 
- short video. [See D2L]
+DESCRIPTION:Review assigned readings\, lecture/video notes and tutorial e
+ xercises to date\; practise argument problems. Confirm test coverage on 
+ D2L\; the outline does not state it. Suggested study date\, not a deadli
+ ne. Source: SSH 105 Course Outline - Fall 2026.pdf\, page 4 (schedule). 
+  Bring a physical OneCard for tests/exams (September 17 announcement)\; 
+ phone version does not suffice. October 8 reminder: Test 1 in TRS-1067 a
+ t start of lecture\; 60 minutes\, 15%\, closed book. Coverage: textbook 
+ Chapters 1–2 and posted materials for Lectures 1–4. Memorize section
+  number and TA name\; bring pen. No lecture immediately afterward\; watc
+ h the replacement short video. [See D2L]
 CATEGORIES:STUDY
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SSH105 — Suggested study: Test 1 Bring a physical OneCard for
-  tests/exams (September 17 announcement)\; phone version does not suffice.
-  October 8 reminder: Test 1 in TRS-1067 at start of lecture\; 60 minutes\,
-  15%\, closed book. Coverage: textbook Chapters 1–2 and posted materials
-  for Lectures 1–4. Memorize section number and TA name\; bring pen. No l
- ecture immediately afterward\; watch the replacement short video. [See D2L
- ]
+DESCRIPTION:SSH105 — Suggested study: Test 1 Bring a physical OneCard f
+ or tests/exams (September 17 announcement)\; phone version does not suff
+ ice. October 8 reminder: Test 1 in TRS-1067 at start of lecture\; 60 min
+ utes\, 15%\, closed book. Coverage: textbook Chapters 1–2 and posted m
+ aterials for Lectures 1–4. Memorize section number and TA name\; bring
+  pen. No lecture immediately afterward\; watch the replacement short vid
+ eo. [See D2L]
 TRIGGER;VALUE=DATE-TIME:20261001T130000Z
 END:VALARM
 SEQUENCE:1
@@ -893,40 +899,41 @@ TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:SSH105 — Test 2 — 20% — TRS-1067
-DESCRIPTION:Official test date: Friday October 30\, during the first two-ho
- ur lecture\, in TRS-1067. Duration: 75 minutes. Exact clock start time is 
- not supplied in the source\; check your timetable and arrive on time. Cumu
- lative coverage: textbook Chapters 1–3 and all material in lecture slide
- s 1–6. Closed-book\; no aids. Likely multiple choice\, true/false (some 
- with explanations)\, and short answers. Bring a pen and physical TMU stude
- nt card\; memorize your section number and TA name. No in-person lecture a
- fter the test\; watch and take notes on the replacement recorded lecture. 
- Tests returned in tutorial Week 9\, November 9–13. Only students officia
- lly approved for the Test Centre should book there well in advance. Source
- : Lecture 6 posted slides\, slide 3\; course outline for 20% weighting. Al
- l-day calendar entry preserves the date without inventing a start time.
+DESCRIPTION:Official test date: Friday October 30\, during the first two-
+ hour lecture\, in TRS-1067. Duration: 75 minutes. Exact clock start time
+  is not supplied in the source\; check your timetable and arrive on time
+ . Cumulative coverage: textbook Chapters 1–3 and all material in lectu
+ re slides 1–6. Closed-book\; no aids. Likely multiple choice\, true/fa
+ lse (some with explanations)\, and short answers. Bring a pen and physic
+ al TMU student card\; memorize your section number and TA name. No in-pe
+ rson lecture after the test\; watch and take notes on the replacement re
+ corded lecture. Tests returned in tutorial Week 9\, November 9–13. Onl
+ y students officially approved for the Test Centre should book there wel
+ l in advance. Source: Lecture 6 posted slides\, slide 3\; course outline
+  for 20% weighting. All-day calendar entry preserves the date without in
+ venting a start time.
 SEQUENCE:3
 DTSTAMP:20261020T161110Z
 LAST-MODIFIED:20261020T161110Z
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SSH105 — Test 2 — 20% (time not supplied) Bring a physical 
- OneCard for tests/exams (September 17 announcement)\; phone version does n
- ot suffice.
+DESCRIPTION:SSH105 — Test 2 — 20% (time not supplied) Bring a physica
+ l OneCard for tests/exams (September 17 announcement)\; phone version do
+ es not suffice.
 TRIGGER;VALUE=DATE-TIME:20261023T130000Z
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SSH105 — Test 2 — 20% (time not supplied) Bring a physical 
- OneCard for tests/exams (September 17 announcement)\; phone version does n
- ot suffice.
+DESCRIPTION:SSH105 — Test 2 — 20% (time not supplied) Bring a physica
+ l OneCard for tests/exams (September 17 announcement)\; phone version do
+ es not suffice.
 TRIGGER;VALUE=DATE-TIME:20261027T130000Z
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SSH105 — Test 2 — 20% (time not supplied) Bring a physical 
- OneCard for tests/exams (September 17 announcement)\; phone version does n
- ot suffice.
+DESCRIPTION:SSH105 — Test 2 — 20% (time not supplied) Bring a physica
+ l OneCard for tests/exams (September 17 announcement)\; phone version do
+ es not suffice.
 TRIGGER;VALUE=DATE-TIME:20261029T130000Z
 END:VALARM
 END:VEVENT
@@ -937,98 +944,107 @@ TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:SSH105 — Suggested study: Test 2
-DESCRIPTION:Suggested study reminder\, not an official deadline. Prepare fo
- r the October 30 Test 2: review textbook Chapters 1–3 and all lecture sl
- ides 1–6\; practice argument problems and tutorial exercises\; review Te
- st 1 feedback. The test is cumulative\, closed-book\, 75 minutes\, in TRS-
- 1067 during the first two-hour lecture. Prepare a pen and physical TMU stu
- dent card\; memorize section number and TA name. Exact clock start time: c
- heck timetable. Source: Lecture 6 posted slides\, slide 3. October 19 anno
- uncements: Test 1 feedback videos for Versions A and B are now available i
- n D2L. Watch the feedback for your test version and use it to guide revisi
- on. All SLG (supported learning group) sessions are paused until further n
- otice\; no restart date is announced. This does not cancel regular lecture
- s or tutorials. October 23 remains a suggested study date\, not a deadline
-  for watching the feedback.
+DESCRIPTION:Suggested study reminder\, not an official deadline. Prepare 
+ for the October 30 Test 2: review textbook Chapters 1–3 and all lectur
+ e slides 1–6\; practice argument problems and tutorial exercises\; rev
+ iew Test 1 feedback. The test is cumulative\, closed-book\, 75 minutes\,
+  in TRS-1067 during the first two-hour lecture. Prepare a pen and physic
+ al TMU student card\; memorize section number and TA name. Exact clock s
+ tart time: check timetable. Source: Lecture 6 posted slides\, slide 3. O
+ ctober 19 announcements: Test 1 feedback videos for Versions A and B are
+  now available in D2L. Watch the feedback for your test version and use 
+ it to guide revision. All SLG (supported learning group) sessions are pa
+ used until further notice\; no restart date is announced. This does not 
+ cancel regular lectures or tutorials. October 23 remains a suggested stu
+ dy date\, not a deadline for watching the feedback.
 SEQUENCE:3
 DTSTAMP:20261020T161110Z
 LAST-MODIFIED:20261020T161110Z
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SSH105 — Suggested study: Test 2 Bring a physical OneCard for
-  tests/exams (September 17 announcement)\; phone version does not suffice.
+DESCRIPTION:SSH105 — Suggested study: Test 2 Bring a physical OneCard f
+ or tests/exams (September 17 announcement)\; phone version does not suff
+ ice.
 TRIGGER;VALUE=DATE-TIME:20261022T130000Z
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:cdfe94ae-9a12-52b2-9cf9-7a3f67b5bcd4@course-calendar
-DTSTAMP:20261013T160000Z
-SUMMARY:SSH105 — Test 3 — 30% (time not supplied)
-DESCRIPTION:Official test date. Duration: 90 minutes. Start time and room a
- re not supplied in outline\; check your timetable/D2L. No new reading this
-  week: catch up if necessary and watch the video lecture. Test coverage is
-  not explicitly stated\; confirm with instructor. Source: SSH 105 Course O
- utline - Fall 2026.pdf\, page 4 (schedule).  Bring a physical OneCard for 
- tests/exams (September 17 announcement)\; phone version does not suffice.
+DTSTAMP:20261111T020000Z
+SUMMARY:SSH105 — Test 3 — 30% — lecture slot (90 min)
+DESCRIPTION:November 9 D2L Test 3 announcement: Friday November 20 during
+  your lecture slot\; 90 minutes\; worth 30%. Cumulative coverage: Feldma
+ n Chapters 1–6 and all PowerPoint material for Lectures 1–9\, with e
+ mphasis on new material. Closed book\; no aids. Likely multiple choice\,
+  true/false (some requiring explanations)\, and short answers. Bring a p
+ en and physical TMU student card\; memorize tutorial number and TA name.
+  No in-person lecture after the test: watch the replacement short video 
+ and take notes before your next tutorial. Tests returned in tutorials No
+ vember 30–December 4. Exact clock start time and room were not specifi
+ ed in this announcement: check your timetable. All-day entry records the
+  date only.
 CATEGORIES:OFFICIAL
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SSH105 — Test 3 — 30% (time not supplied) Bring a physical 
- OneCard for tests/exams (September 17 announcement)\; phone version does n
- ot suffice.
+DESCRIPTION:SSH105 — Test 3 — 30% (time not supplied) Bring a physica
+ l OneCard for tests/exams (September 17 announcement)\; phone version do
+ es not suffice.
 TRIGGER;VALUE=DATE-TIME:20261113T140000Z
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SSH105 — Test 3 — 30% (time not supplied) Bring a physical 
- OneCard for tests/exams (September 17 announcement)\; phone version does n
- ot suffice.
+DESCRIPTION:SSH105 — Test 3 — 30% (time not supplied) Bring a physica
+ l OneCard for tests/exams (September 17 announcement)\; phone version do
+ es not suffice.
 TRIGGER;VALUE=DATE-TIME:20261117T140000Z
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SSH105 — Test 3 — 30% (time not supplied) Bring a physical 
- OneCard for tests/exams (September 17 announcement)\; phone version does n
- ot suffice.
+DESCRIPTION:SSH105 — Test 3 — 30% (time not supplied) Bring a physica
+ l OneCard for tests/exams (September 17 announcement)\; phone version do
+ es not suffice.
 TRIGGER;VALUE=DATE-TIME:20261119T140000Z
 END:VALARM
-SEQUENCE:1
-LAST-MODIFIED:20261014T060000Z
+SEQUENCE:2
+LAST-MODIFIED:20261111T020000Z
+URL:https://courses.torontomu.ca/d2l/le/news/1183936/1183819/view?ou=1183
+ 936
 END:VEVENT
 BEGIN:VEVENT
 UID:e46e4f9c-16a7-5059-97fe-05dfab75e9c9@course-calendar
-DTSTAMP:20261013T160000Z
+DTSTAMP:20261111T020000Z
 SUMMARY:SSH105 — Suggested study: Test 3
-DESCRIPTION:Review assigned readings\, lecture/video notes and tutorial exe
- rcises to date\; practise argument problems. Confirm test coverage on D2L\
- ; the outline does not state it. Suggested study date\, not a deadline. So
- urce: SSH 105 Course Outline - Fall 2026.pdf\, page 4 (schedule).  Bring a
-  physical OneCard for tests/exams (September 17 announcement)\; phone vers
- ion does not suffice.
+DESCRIPTION:Suggested study date\, not a deadline. Review Feldman Chapter
+ s 1–6\, lecture slides 1–9\, and tutorial exercises for November 20 
+ Test 3. Practice reconstruction\, subarguments\, validity and strong arg
+ uments. Use closed-book practice and review errors. Prepare pen and phys
+ ical student card\; memorize tutorial number and TA name. Source: Novemb
+ er 9 Test 3 announcement.
 CATEGORIES:STUDY
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SSH105 — Suggested study: Test 3 Bring a physical OneCard for
-  tests/exams (September 17 announcement)\; phone version does not suffice.
+DESCRIPTION:SSH105 — Suggested study: Test 3 Bring a physical OneCard f
+ or tests/exams (September 17 announcement)\; phone version does not suff
+ ice.
 TRIGGER;VALUE=DATE-TIME:20261112T140000Z
 END:VALARM
-SEQUENCE:1
-LAST-MODIFIED:20261014T060000Z
+SEQUENCE:2
+LAST-MODIFIED:20261111T020000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:1c5cfbfd-8183-540b-85fc-87173091f652@course-calendar
 DTSTAMP:20261013T160000Z
 SUMMARY:SSH105 — DUE: Optional Navigate TMU bonus modules
-DESCRIPTION:Optional: up to six Navigate TMU modules\, roughly one hour eac
- h including quiz. Each fully completed module earns +0.5% if quiz score is
-  at least 80%\; maximum +3%. One attempt per quiz. Official cutoff Monday 
- December 7 at 11:59pm. Source: SSH105 outline page 1.
+DESCRIPTION:Optional: up to six Navigate TMU modules\, roughly one hour e
+ ach including quiz. Each fully completed module earns +0.5% if quiz scor
+ e is at least 80%\; maximum +3%. One attempt per quiz. Official cutoff M
+ onday December 7 at 11:59pm. Source: SSH105 outline page 1.
 CATEGORIES:OFFICIAL
 TRANSP:TRANSPARENT
 DTSTART:20261208T045900Z
@@ -1052,10 +1068,10 @@ BEGIN:VEVENT
 UID:c0afd904-bc00-5a83-b2d8-331bba9004f6@course-calendar
 DTSTAMP:20261013T160000Z
 SUMMARY:SSH105 — Suggested preparation: optional bonus modules
-DESCRIPTION:If pursuing bonus credit\, plan time for six approximately one-
- hour Navigate TMU modules before December 7\, 11:59pm. At least 80% on eac
- h quiz\; only one attempt each. Suggested start date. Source: SSH105 outli
- ne page 1.
+DESCRIPTION:If pursuing bonus credit\, plan time for six approximately on
+ e-hour Navigate TMU modules before December 7\, 11:59pm. At least 80% on
+  each quiz\; only one attempt each. Suggested start date. Source: SSH105
+  outline page 1.
 CATEGORIES:STUDY
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261123
@@ -1070,10 +1086,10 @@ BEGIN:VEVENT
 UID:dc252e92-b8f5-5095-8ab1-753fdf15b2a9@course-calendar
 DTSTAMP:20261013T160000Z
 SUMMARY:PSY102 — Reading week begins — no classes
-DESCRIPTION:October 12–16: no classes. SSH105 also explicitly cancels tut
- orials and office hours. Source: PSY102 021 Course Outline F26_Plesa.docx\
- , Topics and Course Schedule. Filename says 021\; document heading says 01
- 1. Confirm your section. 
+DESCRIPTION:October 12–16: no classes. SSH105 also explicitly cancels t
+ utorials and office hours. Source: PSY102 021 Course Outline F26_Plesa.d
+ ocx\, Topics and Course Schedule. Filename says 021\; document heading s
+ ays 011. Confirm your section. 
 CATEGORIES:INFO
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261012
@@ -1085,32 +1101,35 @@ DTSTAMP:20261103T201635Z
 SEQUENCE:1
 LAST-MODIFIED:20261103T201635Z
 SUMMARY:PSY102 — Suggested task: confirm exam room and materials
-DESCRIPTION:Final exam is December 16\, 2026\, 3–5 p.m. Toronto time\, as
-  supplied by the user November 3. Check the official timetable for room an
- d permitted materials. Suggested check date\, not an official deadline.
+DESCRIPTION:Final exam is December 16\, 2026\, 3–5 p.m. Toronto time\, 
+ as supplied by the user November 3. Check the official timetable for roo
+ m and permitted materials. Suggested check date\, not an official deadli
+ ne.
 CATEGORIES:STUDY
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Final exam is December 16\, 2026\, 3–5 p.m. Toronto time\, as
-  supplied by the user November 3. Check the official timetable for room an
- d permitted materials. Suggested check date\, not an official deadline.
+DESCRIPTION:Final exam is December 16\, 2026\, 3–5 p.m. Toronto time\, 
+ as supplied by the user November 3. Check the official timetable for roo
+ m and permitted materials. Suggested check date\, not an official deadli
+ ne.
 TRIGGER;VALUE=DATE-TIME:20261129T140000Z
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:3f62d2c9-3312-5d86-9216-a194fea71c98@course-calendar
-DTSTAMP:20261103T201635Z
-SEQUENCE:1
-LAST-MODIFIED:20261103T201635Z
+DTSTAMP:20261111T020000Z
+SEQUENCE:2
+LAST-MODIFIED:20261111T020000Z
 SUMMARY:PSY102 — Final exam
-DESCRIPTION:Final exam: December 16\, 2026\, 3:00–5:00 p.m. America/Toron
- to. Date and time supplied by the user on November 3\, 2026\; not independ
- ently reverified on D2L. Cumulative final: review assigned chapters and le
- cture notes. Location and permitted materials remain to be confirmed. Outl
- ine weight conflict remains: 29% in assessment table versus 25% in prose.
+DESCRIPTION:Final exam: December 16\, 2026\, 3–5 p.m. Toronto time\, re
+ tained from the existing calendar as supplied by the user November 3\; n
+ ot independently reverified in this review. Cumulative\; review all assi
+ gned chapters and lecture notes. Current D2L outline states 29% in both 
+ the assessment table and exam prose. Room and permitted materials remain
+  to be confirmed.
 CATEGORIES:OFFICIAL
 TRANSP:OPAQUE
 DTSTART:20261216T200000Z
@@ -1140,9 +1159,9 @@ BEGIN:VEVENT
 UID:1560cc9d-d504-5e75-8a21-42506c2244b4@course-calendar
 DTSTAMP:20261013T160000Z
 SUMMARY:SSH105 — Reading week begins — no classes
-DESCRIPTION:October 12–16: no classes. SSH105 also explicitly cancels tut
- orials and office hours. Source: SSH 105 Course Outline - Fall 2026.pdf\, 
- page 4 (schedule). 
+DESCRIPTION:October 12–16: no classes. SSH105 also explicitly cancels t
+ utorials and office hours. Source: SSH 105 Course Outline - Fall 2026.pd
+ f\, page 4 (schedule). 
 CATEGORIES:INFO
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261012
@@ -1150,36 +1169,35 @@ DTEND;VALUE=DATE:20261013
 END:VEVENT
 BEGIN:VEVENT
 UID:b61f9fb8-5071-516a-88d6-5dc1567611e4@course-calendar
-DTSTAMP:20261013T160000Z
+DTSTAMP:20261111T020000Z
 SUMMARY:SSH105 — Suggested task: confirm final exam schedule
-DESCRIPTION:Check D2L and your official exam timetable for exact final date
- \, time\, location and permitted materials. Outline lists December 9–20 
- exam period only. SSH105 final: 3 hours\, 35%. Coverage not specified. Sug
- gested check date\, not an official deadline. Source: SSH 105 Course Outli
- ne - Fall 2026.pdf\, page 4 (schedule).  Bring a physical OneCard for test
- s/exams (September 17 announcement)\; phone version does not suffice.
+DESCRIPTION:Suggested task: check MyServiceHub for your published final e
+ xam date\, time and room. November 4 announcement says schedules become 
+ available November 9. Outline: final exam 3 hours\, worth 35%\; exam per
+ iod December 9–20. Exact SSH105 appointment has not been verified in t
+ his review. If applicable\, AAS booking deadline November 20\; exam conf
+ lict/overload notification deadline November 23. Confirm applicable inst
+ ructions in MyServiceHub.
 CATEGORIES:STUDY
 TRANSP:TRANSPARENT
-DTSTART;VALUE=DATE:20261130
-DTEND;VALUE=DATE:20261201
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:SSH105 — Suggested task: confirm final exam schedule Bring a 
- physical OneCard for tests/exams (September 17 announcement)\; phone versi
- on does not suffice.
-TRIGGER;VALUE=DATE-TIME:20261129T140000Z
+DESCRIPTION:Check published SSH105 final exam schedule
+TRIGGER;VALUE=DATE-TIME:20261111T140000Z
 END:VALARM
-SEQUENCE:1
-LAST-MODIFIED:20261014T060000Z
+SEQUENCE:2
+LAST-MODIFIED:20261111T020000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:aafa6f02-8d4d-5062-8e66-c3a75e25f099@course-calendar
 DTSTAMP:20261013T160000Z
 SUMMARY:SSH105 — Final exam WINDOW begins — exact date TBD
-DESCRIPTION:December 9–20 is the exam period\, NOT an exam appointment. A
- dd the actual date/time once published. Final exam lasts 3 hours and is wo
- rth 35%. Source: SSH 105 Course Outline - Fall 2026.pdf\, page 4 (schedule
- ). 
+DESCRIPTION:December 9–20 is the exam period\, NOT an exam appointment.
+  Add the actual date/time once published. Final exam lasts 3 hours and i
+ s worth 35%. Source: SSH 105 Course Outline - Fall 2026.pdf\, page 4 (sc
+ hedule). 
 CATEGORIES:INFO
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261209
@@ -1189,12 +1207,12 @@ BEGIN:VEVENT
 UID:a6814ec1-91b9-5035-9655-77d6bbff612d@course-calendar
 DTSTAMP:20261013T160000Z
 SUMMARY:PSY102 — Suggested task: check Sona requirements
-DESCRIPTION:Research contributions worth up to 3%\; individual studies prov
- ide 0.5–2%. Check TMU email for Sona login and available studies\; ask [
- contact in D2L] about opportunities and completion cutoff. No official dea
- dline stated in outline. Suggested check date. Source: PSY102 021 Course O
- utline F26_Plesa.docx\, Topics and Course Schedule. Filename says 021\; do
- cument heading says 011. Confirm your section. 
+DESCRIPTION:Research contributions worth up to 3%\; individual studies pr
+ ovide 0.5–2%. Check TMU email for Sona login and available studies\; a
+ sk [contact in D2L] about opportunities and completion cutoff. No offici
+ al deadline stated in outline. Suggested check date. Source: PSY102 021 
+ Course Outline F26_Plesa.docx\, Topics and Course Schedule. Filename say
+ s 021\; document heading says 011. Confirm your section. 
 CATEGORIES:STUDY
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261019
@@ -1211,12 +1229,12 @@ DTSTAMP:20261014T172213Z
 SEQUENCE:1
 LAST-MODIFIED:20261014T172213Z
 SUMMARY:SSH105 — Suggested prep: watch Lecture 5 and take notes
-DESCRIPTION:Watch Lecture 5 in the D2L Content folder and take notes. Offic
- ial instruction in the October 14 announcement: complete this before your 
- first tutorial after Reading Week\; you will work on the material in group
- s. October 19 is a suggested preparation day\, not an official deadline. C
- heck your own tutorial time. If recording access fails\, use Zoom SSO with
-  company domain torontomu.
+DESCRIPTION:Watch Lecture 5 in the D2L Content folder and take notes. Off
+ icial instruction in the October 14 announcement: complete this before y
+ our first tutorial after Reading Week\; you will work on the material in
+  groups. October 19 is a suggested preparation day\, not an official dea
+ dline. Check your own tutorial time. If recording access fails\, use Zoo
+ m SSO with company domain torontomu.
 CATEGORIES:STUDY
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261019
@@ -1225,6 +1243,52 @@ BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Prepare Lecture 5 notes before your next SSH105 tutorial
 TRIGGER;VALUE=DATE-TIME:20261018T130000Z
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ssh105-slg-we-202611@course-calendar
+DTSTAMP:20261111T020000Z
+LAST-MODIFIED:20261111T020000Z
+SEQUENCE:0
+SUMMARY:SSH105 — Optional SLG study session (Zoom)
+DESCRIPTION:Optional supported learning group on Zoom. November 2 D2L ann
+ ouncement supersedes the earlier pause. Check the linked schedule for cu
+ rrent dates\, times and Zoom access before attending. These sessions are
+  study support\, not required assessments.
+URL:https://docs.google.com/document/d/17ylFTR7jJ0EZOsBxfA949-SRICLXmZukj
+ RUFnVJVRbI/edit
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+DTSTART:20261112T003000Z
+DTEND:20261112T020000Z
+RRULE:FREQ=WEEKLY;COUNT=4
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Optional SSH105 SLG — check current Zoom schedule
+TRIGGER:-PT30M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ssh105-slg-th-202611@course-calendar
+DTSTAMP:20261111T020000Z
+LAST-MODIFIED:20261111T020000Z
+SEQUENCE:0
+SUMMARY:SSH105 — Optional SLG study session (Zoom)
+DESCRIPTION:Optional supported learning group on Zoom. November 2 D2L ann
+ ouncement supersedes the earlier pause. Check the linked schedule for cu
+ rrent dates\, times and Zoom access before attending. These sessions are
+  study support\, not required assessments.
+URL:https://docs.google.com/document/d/17ylFTR7jJ0EZOsBxfA949-SRICLXmZukj
+ RUFnVJVRbI/edit
+CATEGORIES:STUDY
+TRANSP:TRANSPARENT
+DTSTART:20261112T220000Z
+DTEND:20261112T233000Z
+RRULE:FREQ=WEEKLY;COUNT=4
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Optional SSH105 SLG — check current Zoom schedule
+TRIGGER:-PT30M
 END:VALARM
 END:VEVENT
 END:VCALENDAR
