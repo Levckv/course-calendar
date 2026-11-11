@@ -529,14 +529,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:b61f9fb8-5071-516a-88d6-5dc1567611e4@course-calendar
 DTSTAMP:20261111T020000Z
-SUMMARY:SSH105 — Suggested task: confirm final exam schedule
-DESCRIPTION:Suggested task: check MyServiceHub for your published final e
- xam date\, time and room. November 4 announcement says schedules become 
- available November 9. Outline: final exam 3 hours\, worth 35%\; exam per
- iod December 9–20. Exact SSH105 appointment has not been verified in t
- his review. If applicable\, AAS booking deadline November 20\; exam conf
- lict/overload notification deadline November 23. Confirm applicable inst
- ructions in MyServiceHub.
+SUMMARY:SSH105 — Suggested task: confirm final exam room and materials
+DESCRIPTION:Final exam date/time supplied by the user: December 14\, 2026
+  at 7 p.m. Toronto time. Outline duration: 3 hours\; worth 35%. Check My
+ ServiceHub/D2L for the room\, permitted materials and final coverage. Su
+ ggested check date\, not an official deadline.
 CATEGORIES:STUDY
 TRANSP:TRANSPARENT
 DTSTART;VALUE=DATE:20261111
@@ -546,21 +543,39 @@ ACTION:DISPLAY
 DESCRIPTION:Check published SSH105 final exam schedule
 TRIGGER;VALUE=DATE-TIME:20261111T140000Z
 END:VALARM
-SEQUENCE:2
+SEQUENCE:3
 LAST-MODIFIED:20261111T020000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:aafa6f02-8d4d-5062-8e66-c3a75e25f099@course-calendar
-DTSTAMP:20261013T160000Z
-SUMMARY:SSH105 — Final exam WINDOW begins — exact date TBD
-DESCRIPTION:December 9–20 is the exam period\, NOT an exam appointment.
-  Add the actual date/time once published. Final exam lasts 3 hours and i
- s worth 35%. Source: SSH 105 Course Outline - Fall 2026.pdf\, page 4 (sc
- hedule). 
-CATEGORIES:INFO
-TRANSP:TRANSPARENT
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
+DTSTAMP:20261111T020500Z
+LAST-MODIFIED:20261111T020500Z
+SEQUENCE:1
+SUMMARY:SSH105 — Final exam — 35%
+DESCRIPTION:December 14\, 2026 at 7 p.m. Toronto time\, supplied by the u
+ ser November 10. Three-hour duration and 35% weighting from the course o
+ utline\; calendar ends at 10 p.m. Room and permitted materials remain to
+  be confirmed. Review assigned readings\, lectures and tutorial exercise
+ s\; exact final coverage has not been independently verified.
+DTSTART:20261215T000000Z
+DTEND:20261215T030000Z
+CATEGORIES:OFFICIAL
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 final exam — December 14 at 7 p.m.
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 final exam — December 14 at 7 p.m.
+TRIGGER:-P3D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:SSH105 final exam — December 14 at 7 p.m.
+TRIGGER:-P1D
+END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ae00dd15-bce5-5aed-9665-458706d7c976@course-calendar
